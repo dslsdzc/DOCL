@@ -146,12 +146,16 @@ Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCLFE-zh.txt
 
 ## DOCL-Text — 文本作品许可证
 
-DOCL-Text 是 DOCL 家族中适用于文档、README、规格说明及网站内容的许可证。与 CC-BY-SA 不同，署名可指向项目而非个人，且与 DOCL/DOCLFE 明确兼容。
+DOCL-Text 是 DOCL 家族中适用于文档、README、规格说明及网站内容的许可证系列，与 CC 的 6 种组合一一对应。与 CC 不同，署名可指向项目而非个人，且与 DOCL/DOCLFE 明确兼容。
 
-| 版本 | 商用 | 署名 | 传染性 |
-|------|------|------|--------|
-| [DOCL-Text v1.0](DOCL-Text-v1.0.md) | ✅ 允许 | ✅ 必须 | ✅ 相同方式共享 |
-| [DOCL-Text-NC v1.0](DOCL-Text-NC-v1.0.md) | ❌ 禁止 | ✅ 必须 | ✅ 相同方式共享 |
+| 变体 | 署名 | 商业使用 | 修改/改编 | 传染性 |
+|------|------|---------|----------|--------|
+| [DOCL-Text-BY](DOCL-Text-BY-v1.0.md) | ✅ 必须 | ✅ 允许 | ✅ 允许 | ❌ |
+| [DOCL-Text-BY-SA](DOCL-Text-BY-SA-v1.0.md) | ✅ 必须 | ✅ 允许 | ✅ 允许 | ✅ 相同方式共享 |
+| [DOCL-Text-BY-NC](DOCL-Text-BY-NC-v1.0.md) | ✅ 必须 | ❌ 禁止 | ✅ 允许 | ❌ |
+| [DOCL-Text-BY-NC-SA](DOCL-Text-BY-NC-SA-v1.0.md) | ✅ 必须 | ❌ 禁止 | ✅ 允许 | ✅ 相同方式共享 |
+| [DOCL-Text-BY-ND](DOCL-Text-BY-ND-v1.0.md) | ✅ 必须 | ✅ 允许 | ❌ 禁止改编 | ❌ |
+| [DOCL-Text-BY-NC-ND](DOCL-Text-BY-NC-ND-v1.0.md) | ✅ 必须 | ❌ 禁止 | ❌ 禁止改编 | ❌ |
 
 ---
 

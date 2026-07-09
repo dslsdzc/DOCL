@@ -142,6 +142,21 @@ Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCLFE-en.txt
 
 ---
 
+## DOCL-Text — Text Works Licenses
+
+DOCL-Text is the DOCL family of licenses for documentation, README, specifications, and website content. It mirrors the 6 CC combinations, with one key difference: attribution can be made to the project/team rather than individuals.
+
+| Variant | Attribution | Commercial | Derivatives | ShareAlike |
+|---------|------------|-----------|------------|------------|
+| [DOCL-Text-BY](DOCL-Text-BY-v1.0.md) | ✅ Required | ✅ Allowed | ✅ Allowed | ❌ |
+| [DOCL-Text-BY-SA](DOCL-Text-BY-SA-v1.0.md) | ✅ Required | ✅ Allowed | ✅ Allowed | ✅ ShareAlike |
+| [DOCL-Text-BY-NC](DOCL-Text-BY-NC-v1.0.md) | ✅ Required | ❌ Prohibited | ✅ Allowed | ❌ |
+| [DOCL-Text-BY-NC-SA](DOCL-Text-BY-NC-SA-v1.0.md) | ✅ Required | ❌ Prohibited | ✅ Allowed | ✅ ShareAlike |
+| [DOCL-Text-BY-ND](DOCL-Text-BY-ND-v1.0.md) | ✅ Required | ✅ Allowed | ❌ NoDerivatives | ❌ |
+| [DOCL-Text-BY-NC-ND](DOCL-Text-BY-NC-ND-v1.0.md) | ✅ Required | ❌ Prohibited | ❌ NoDerivatives | ❌ |
+
+---
+
 ## Design Philosophy
 
 DOCL is built on the following principles:
