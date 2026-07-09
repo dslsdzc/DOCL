@@ -202,4 +202,5 @@
 
 *DOCLFE v1.0 — Dsls Open Core License Free Edition*
 *This is a source-available license. It is not an OSI-approved open source license.*
+*This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.*
 *Copyright © Dsls Team*

@@ -1,10 +1,12 @@
-# DOCL — Dsls Open Core License
+# DOCLFE — Dsls Open Core License (Free Edition)
 
-> 一个兼顾商业可持续性与社区信任的许可证框架。
+> 一个源码强制公开程度高于 GPLv3 的免费许可证框架。不属于 OSI 批准的开源许可证。
 
-**DOCL（Dsls Open Core License）v1.0** 是一个源码可用（Source-Available）许可证框架，由 Dsls 团队设计。
-它在 **商业可持续性** 与 **社区信任** 之间寻求平衡：所有修改和衍生作品必须公开源码，
-商业使用需要另外获得授权，且定价受社区治理机制约束。
+**DOCLFE（Dsls Open Core License Free Edition）v1.0** 是 DOCL 许可证家族的非商业变体，由 Dsls 团队设计。
+所有修改和衍生作品必须公开源码，强制程度高于 GPLv3（含反 TiVo 条款、AGPL 级的联网触发公开义务），
+但**不涉及商业授权**，可免费用于任何用途。
+
+本仓库同时托管 **DOCL v1.0 标准版（Standard Edition）**（含商业授权条款），详见下文。
 
 ---
 
@@ -67,7 +69,7 @@ DOCL 不是一个单一的许可证，而是一个 **许可证体系**：
 
 ## 与其他许可证的比较
 
-| | GPLv3 | BSL | ELv2 | DOCL | **DOCLFE** |
+| | GPLv3 | BSL | ELv2 | DOCL 标准版 | **DOCLFE** |
 |--|-------|-----|------|------|----------|
 | 源码公开 | ✅ 强制 | ✅ 强制 | ✅ 强制 | ✅ 强制 | ✅ 强制 |
 | 反 TiVo | ✅ | ❌ | ❌ | ✅ | ✅ |
@@ -160,4 +162,5 @@ DOCL 由 Dsls 团队设计。Dsls 是一个关注 **软件许可证治理** 和 
 ---
 
 *DOCL v1.0 — Dsls Open Core License*
+*License texts in this repository are licensed under CC-BY-4.0.*
 *Copyright © Dsls Team*

@@ -1,10 +1,12 @@
 # DOCL — Dsls Open Core License
 
-> A license framework balancing commercial sustainability with community trust.
+> A free license framework with source disclosure stricter than GPLv3. Not OSI-approved open source.
 
-**DOCL (Dsls Open Core License) v1.0** is a source-available license framework designed by the Dsls Team.
-It seeks a balance between **commercial sustainability** and **community trust**: all modifications and derivative works must publicly disclose source code,
-commercial use requires separate authorization, and pricing is subject to community governance.
+**DOCLFE (Dsls Open Core License Free Edition) v1.0** is the non-commercial variant of the DOCL license family, designed by the Dsls Team.
+All modifications and derivative works must publicly disclose source code, with requirements stricter than GPLv3 (including anti-Tivoization and AGPL-style network triggering),
+but **no commercial terms** — free for any use.
+
+This repository also hosts **DOCL v1.0 Standard Edition** (with commercial terms), detailed below.
 
 ---
 
@@ -67,7 +69,7 @@ Licensors may add project-specific terms in Article 8, provided they do not conf
 
 ## Comparison with Other Licenses
 
-| | GPLv3 | BSL | ELv2 | DOCL |
+| | GPLv3 | BSL | ELv2 | DOCL Standard | **DOCLFE** |
 |--|-------|-----|------|------|
 | Source disclosure | ✅ Mandatory | ✅ Mandatory | ✅ Mandatory | ✅ Mandatory |
 | Anti-Tivoization | ✅ | ❌ | ❌ | ✅ |
@@ -158,4 +160,5 @@ DOCL is designed by the Dsls Team, a group focused on **software license governa
 ---
 
 *DOCL v1.0 — Dsls Open Core License*
+*License texts in this repository are licensed under CC-BY-4.0.*
 *Copyright © Dsls Team*

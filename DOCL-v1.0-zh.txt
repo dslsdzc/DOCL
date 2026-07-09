@@ -245,4 +245,5 @@ DOCL（Dsls Open Core License）v1.0 是一个源码可用（Source-Available）
 ---
 
 DOCL v1.0 — Dsls Open Core License
+This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.
 Copyright © Dsls Team
