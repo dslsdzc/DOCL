@@ -67,6 +67,8 @@ This License applies to the software accompanying it (hereinafter referred to as
 
 1.13 **"Affiliates"** means any entity that directly or indirectly controls, is controlled by, or is under common control with a party. "Control" means ownership of substantially all of the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control may be direct or indirect.
 
+1.14 **"Commercial Exemption Agreement"** means a separate agreement between the Licensor and a commercial user specifying the terms of commercial authorization, including but not limited to price, term, scope, and conditions. The Commercial Exemption Agreement is independent of this License; in the event of any conflict, this License shall prevail.
+
 ## Article 2: Basic License Grant
 
 2.1 Subject to compliance with the terms and conditions of this License, the Licensor grants you a worldwide, non-exclusive, royalty-free license to:
@@ -74,7 +76,7 @@ This License applies to the software accompanying it (hereinafter referred to as
     (b) Modify the Software and create Derivative Works;
     (c) Distribute the Software, its modifications, and Derivative Works, in source or object form, provided that such distribution must maintain this License and recipients shall likewise be bound by all terms and conditions hereof.
 
-2.2 Any distribution must be accompanied by a complete copy of this License, and modifications must be prominently marked to indicate they have been modified.
+2.2 Any distribution must be accompanied by a complete copy of this License, or a publicly accessible persistent link (URL) to the official version of this License, and modifications must be prominently marked to indicate they have been modified.
 
 ## Article 3: Mandatory Source Code Disclosure (Non-Overrideable)
 
@@ -194,7 +196,7 @@ This License acknowledges that the health of an open source community depends on
 
 8.4 Once established, Additional Terms form an integral part of this License.
 
-## Article 9: Patent Terms
+## Article 9: Patent Terms (Non-Overrideable)
 
 9.1 The patent license granted by the Licensor under this License is limited to patent claims that are infringed by your Modification(s) or direct contributions to the Software. If you or your Affiliates initiate a patent infringement lawsuit against any entity alleging that the Software or a contribution contained therein constitutes direct or contributory patent infringement, then all rights (including patent licenses) granted to you under this License shall terminate automatically as of the date such litigation is filed.
 
@@ -202,13 +204,19 @@ This License acknowledges that the health of an open source community depends on
 
 ## Article 10: Consequences of Violation
 
-10.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall terminate immediately and automatically.
+10.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall terminate immediately and automatically (subject to Article 10.2 below).
 
-10.2 **Cure Period**: If this is the first time you have received notice of a violation from the Licensor, and you fully cure the violation within **thirty (30) days** after receiving such notice, then your license under this License will be reinstated permanently. This cure opportunity is available only once.
+10.2 **Cure Period**: Notwithstanding Article 10.1, if this is the first time you have received notice of a violation from the Licensor, and you fully cure the violation within **thirty (30) days** after receiving such notice, the termination of this License shall be automatically reinstated retroactively as if it had never occurred. This cure opportunity is available only once.
 
 10.3 Upon termination, you must immediately cease all use, copying, modification, and distribution of the Software, and destroy all copies thereof.
 
 10.4 Continued use after termination constitutes infringement. The Licensor reserves all rights to pursue legal action and claim damages (including but not limited to actual losses, infringer's profits, and reasonable enforcement costs).
+
+10.5 **Survival**: Upon termination or expiration of this License, the following provisions shall survive and continue in full force and effect:
+    (a) Article 6.2 (Contribution grants) — licenses already granted by Contributors shall remain in effect;
+    (b) Article 10 (infringement liability and claims under this Article);
+    (c) Article 11 (Disclaimer and Limitation of Liability);
+    (d) Article 12 (Miscellaneous, including dispute resolution and governing law).
 
 ## Article 11: Disclaimer and Limitation of Liability
 
