@@ -162,7 +162,7 @@ This License acknowledges that the health of an open source community depends on
 
 8.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall terminate immediately and automatically (subject to Article 8.2 below).
 
-8.2 **Cure Period**: Notwithstanding Article 8.1, if this is the first time you have received notice of a violation from the Licensor, and you fully cure the violation within **thirty (30) days** after receiving such notice, the termination of this License shall be automatically reinstated retroactively as if it had never occurred. This cure opportunity is available only once.
+8.2 **Cure Period**: Notwithstanding Article 8.1, if this is the first time you have received notice of a violation from the Licensor, and you fully cure the violation within **thirty (30) days** after receiving such notice, the termination of this License shall be automatically reinstated retroactively as if it had never occurred. This cure opportunity is available **only once** during the entire term of this License, regardless of the type or provision of the violation. Once used, you are no longer eligible to invoke this Article.
 
 8.3 Upon termination, you must immediately cease all use, copying, modification, and distribution of the Software, and destroy all copies thereof.
 
