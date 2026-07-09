@@ -8,7 +8,7 @@ commercial use requires separate authorization, and pricing is subject to commun
 
 ## Preamble
 
-This License applies to the software accompanying it (hereinafter referred to as the "Software" or "Licensed Work"). By using, copying, distributing, or modifying the Software, you accept and agree to be bound by all terms and conditions of this License. If you do not agree, do not use, copy, distribute, or modify the Software.
+This License applies to the software accompanying it (hereinafter referred to as the "Software" or "Licensed Work"). By using, copying, distributing, or modifying the Software, you acknowledge and agree to be bound by all terms and conditions of this License. If you do not agree, you may not use, copy, distribute, or modify the Software.
 
 "Licensor" means the entity or individual that provides the Software and designates this License.
 
@@ -68,12 +68,12 @@ This License applies to the software accompanying it (hereinafter referred to as
 
 ## Article 2: Basic License Grant
 
-2.1 Subject to compliance with the terms of this License, the Licensor grants you a non-exclusive, worldwide, royalty-free license to:
+2.1 Subject to compliance with the terms and conditions of this License, the Licensor grants you a worldwide, non-exclusive, royalty-free license to:
     (a) Use, copy, and run the Software;
     (b) Modify the Software and create Derivative Works;
     (c) Distribute the Software, its modifications, and Derivative Works, in source or object form, provided that such distribution must maintain this License and recipients shall likewise be bound by all terms and conditions hereof.
 
-2.2 Any distribution must be accompanied by a complete copy of this License, and modifications must be prominently marked as such.
+2.2 Any distribution must be accompanied by a complete copy of this License, and modifications must be prominently marked to indicate they have been modified.
 
 ## Article 3: Mandatory Source Code Disclosure (Non-Overrideable)
 
@@ -93,7 +93,7 @@ When conveying the Software or its modified versions in object code form, the Co
 
 (d) Network Distribution: Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge. If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source;
 
-(e) Peer-to-Peer Transmission: Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 3.2(d).
+(e) Peer-to-Peer Transmission: Convey the object code using peer-to-peer transmission, provided you inform other recipients where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 3.2(d).
 
 ### 3.3 Format Requirements
 
@@ -115,7 +115,7 @@ The requirement to provide Installation Information does not include a requireme
 
 ### 3.6 Compliance Obligation
 
-Upon request by the Licensor, you must provide access URLs to the Corresponding Source for each independent deployment environment (rather than each running instance) within thirty (30) days.
+Upon request by the Licensor, you shall provide access URLs to the Corresponding Source for each independent deployment environment (rather than each running instance) within thirty (30) days.
 
 ## Article 4: Commercial Authorization (Non-Overrideable)
 
@@ -125,7 +125,7 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 4.3 The Licensor retains the right to grant specific exemptions under Article 8 (Additional Terms).
 
-4.4 Revenue Disclosure Obligation: Any user engaging in Commercial Use of the Software, or claiming that their use does not constitute Commercial Use by virtue of the exemption in Article 1.6(a), shall publicly disclose on a quarterly basis, on a platform designated by the Licensor, the relevant revenue data directly or indirectly generated from the Software. Failure to comply with this disclosure obligation shall result in the loss of eligibility for the exemption under Article 1.6(a). This obligation shall be suspended if the Licensor has not yet designated a platform.
+4.4 Revenue Disclosure Obligation: Any user engaging in Commercial Use of the Software, or claiming that their use does not constitute Commercial Use by virtue of the exemption in Article 1.6(a), shall, on a quarterly basis, publicly disclose on a platform designated by the Licensor the relevant revenue data directly or indirectly generated from the Software. Failure to comply with this disclosure obligation shall result in the loss of eligibility for the exemption under Article 1.6(a). This obligation shall be suspended if the Licensor has not yet designated a platform.
 
 ## Article 5: Pricing and Community Governance (Non-Overrideable)
 
@@ -136,7 +136,7 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 5.3 Price Adjustment Conditions: Any adjustment to the Set Price requires community approval under the following rules:
     (a) Proposal Right: Only the top ten (10) Contributors by contribution volume may propose a price adjustment;
     (b) Voting Right: All CLA Signatories have one vote each;
-    (c) Approval Threshold: More than fifty percent (50%) of voting CLA Signatories must approve;
+    (c) Approval Threshold: A simple majority of voting CLA Signatories must approve;
     (d) Notice Period: Proposals involving a price increase of fifteen percent (15%) or more must be publicly noticed for no less than fifteen (15) days before voting;
     (e) Cooling-off Period: A rejected proposal may not be reintroduced within six (6) months from the voting date;
     (f) The specific methodology for calculating contribution volume rankings shall be determined in the Additional Terms (Article 8).
@@ -153,12 +153,12 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 6.5 CLA Signatories must be natural persons only. The following entities shall not become CLA Signatories:
     (a) Commercial entities, corporations, teams, organizations, or other non-human legal persons;
-    (b) Individuals or groups actively summoned, recruited, or invited by the Project Manager(s) for the purpose of acquiring voting rights.
+    (b) Individuals or groups actively recruited or solicited by the Project Manager(s) for the purpose of acquiring voting rights.
     "Project Manager(s)" means the Licensor or persons designated by the Licensor to be responsible for project governance.
 
 ## Article 7: Anti-Competitive Fork and Trademark (Non-Overrideable)
 
-7.1 All rights granted under this License to a Competitive Fork (as defined in Article 1.11) shall automatically terminate.
+7.1 All rights granted under this License to a Competitive Fork (as defined in Article 1.11) shall terminate automatically.
 
 7.2 Continued use, modification, or distribution after such termination shall constitute infringement, and the Licensor reserves all rights to pursue legal action and claim damages.
 
@@ -168,11 +168,11 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 ### 7.5 Disruptive Conduct Declaration
 
-This License recognizes that the health of an open source community depends on the governance integrity of the project. Any conduct that has the direct or indirect purpose of disrupting the original project's community, including but not limited to systematically migrating the original project's community infrastructure, Contributors, or user base on the basis of an Interface-Conforming Implementation, while not necessarily constituting a direct violation of the express terms of this License, is explicitly discouraged and not endorsed by the Licensor. The Licensor reserves the right to take appropriate measures permitted by applicable law in response to such conduct.
+This License acknowledges that the health of an open source community depends on the governance integrity of the project. Any conduct that has the direct or indirect purpose of disrupting the original project's community, including but not limited to systematically migrating the original project's community infrastructure, Contributors, or user base on the basis of an Interface-Conforming Implementation, while not necessarily constituting a direct violation of the express terms of this License, is explicitly discouraged and not endorsed by the Licensor. The Licensor reserves the right to take appropriate measures permitted by applicable law in response to such conduct.
 
 ## Article 8: Additional Terms
 
-8.1 The Licensor may include additional terms in this Article as needed for specific projects.
+8.1 The Licensor may include additional terms in this Article as the Licensor deems appropriate for specific projects.
 
 8.2 Additional Terms must not conflict with Articles 1 through 7, Article 9, and Article 12 of this License.
 
@@ -188,7 +188,7 @@ This License recognizes that the health of an open source community depends on t
 
 ## Article 10: Consequences of Violation
 
-10.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall automatically terminate immediately.
+10.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall terminate immediately and automatically.
 
 10.2 Cure Period: If this is the first time you have received notice of a violation from the Licensor, and you fully cure the violation within thirty (30) days after receiving such notice, then your license under this License will be reinstated permanently. This cure opportunity is available only once.
 
@@ -208,7 +208,7 @@ This License recognizes that the health of an open source community depends on t
 
 12.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall be submitted to the competent People's Court at the Licensor's domicile.
 
-12.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or upgrade to the new version.
+12.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or adopt the new version.
 
 12.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
