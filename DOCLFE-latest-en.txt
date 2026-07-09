@@ -1,0 +1,202 @@
+# DOCLFE v1.0 — Dsls Open Core License Free Edition
+
+DOCLFE (Dsls Open Core License Free Edition) v1.0 is a source-available license framework designed by the Dsls Team.
+This is the free edition: all modifications and derivative works must publicly disclose source code, with requirements stricter than GPLv3,
+but it is not an OSI-approved open source license.
+
+---
+
+## Preamble
+
+This License applies to the software accompanying it (hereinafter referred to as the "Software" or "Licensed Work"). By using, copying, distributing, or modifying the Software, you acknowledge and agree to be bound by all terms and conditions of this License. If you do not agree, you may not use, copy, distribute, or modify the Software.
+
+"Licensor" means the entity or individual that provides the Software and designates this License.
+
+## Article 1: Definitions
+
+1.1 "Software" or "Licensed Work" means the original work published by the Licensor under this License, together with all modified versions thereof.
+
+1.2 "Modification" means any addition to, deletion from, or change to the source code of the Software, including but not limited to code changes, feature additions or removals, and bug fixes.
+
+1.3 "Derivative Work" means any work that is based on, derived from, adapted from, or refactored from the Software, in whole or in part.
+
+1.4 "Source Code" means the preferred form of the work for making modifications to it, including all necessary build scripts, configuration files, dependency declarations, and documentation comments.
+
+1.5 "Corresponding Source" means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities. Corresponding Source includes, but is not limited to:
+    (a) Source code for all modules and interface definition files;
+    (b) Source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require;
+    (c) Build systems, Makefiles, configuration files, and compilation instructions.
+    Corresponding Source does not include System Libraries, general-purpose tools, or generally available free programs used unmodified in performing those activities.
+
+1.6 "CLA" (Contributor License Agreement) means the contributor license agreement executed between a Contributor and the Licensor.
+
+1.7 "CLA Signatory" means a natural person who has executed a currently valid CLA. Legal entities (including corporations, teams, organizations, etc.) may not become CLA Signatories.
+
+1.8 "Contributor" means a natural person who is a CLA Signatory. Only Contributors are entitled to submit contributions to the Software.
+
+1.9 "Contribution" means code, documentation, configuration, or other modifications to the Licensed Work submitted by a Contributor to the Software through a source code control system (such as Git) in the form of Pull Requests, patches, or other means.
+
+1.10 "Competitive Fork" means any of the following:
+    (a) A fork directly based on the source code of the Licensed Work that exhibits any of the following characteristics —
+        (i) It offers a product to third parties on a paid basis (including through paid support arrangements), where the functionality of such offering significantly overlaps with the capabilities of the Licensed Work or the Licensor's commercial offering(s) based on the Licensed Work.
+            A determination of significant overlap shall be based on an objective assessment of factors including the functional scope, target users, and market positioning of the product in question.
+        (ii) An Interface-Conforming Implementation (as defined in Article 1.11) that exhibits any of the following characteristics —
+            (A) It is offered to third parties on a paid basis;
+            (B) It systematically migrates the original project's community infrastructure. "Systematic migration" means the bulk copying or transfer of the original project's community assets through automated tools or processes, including but not limited to issue tracking, discussion forums, documentation, or CI/CD configuration.
+                If the Licensor has given written notice and the migration has not ceased within fourteen (14) days, such migration shall be deemed systematic;
+            (C) Its primary recruitment target is the original project's CLA Signatories or Contributors, and such recruitment is not coordinated with or consented to by the Licensor.
+
+    "Embedded" means including the source code or executable code of the Licensed Work in a competitive offering as part of its distribution. The following circumstances all constitute embedding:
+    (x) Distributing the Licensed Work as an internal component or dependency of the competitive offering;
+    (y) The competitive offering requires access to or download of the Licensed Work to operate;
+    (z) Using the Licensed Work, in whole or in part, through linking, bundling, or integration within the competitive offering.
+
+    The following shall not be deemed Competitive Forks:
+    (A) Forks used solely internally and not offered to third parties;
+    (B) Forks distributed on a non-paid basis;
+    (C) Products that were not competitive when first made generally available shall not become competitive solely due to the Licensor releasing a new version of the Licensed Work with additional capabilities. However, only versions of the Software available under this License prior to such change may be used for such purpose; later versions are subject to the standard competitive restriction.
+
+1.11 "Interface-Conforming Implementation" means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. If the Licensed Work provides an official compatibility test suite, an implementation capable of passing such test suite shall be presumed to be substantially the same. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof; provided, however, that this definition applies only to the extent permitted by applicable law. In jurisdictions where interfaces are not protected by copyright or where reverse engineering is permitted by applicable law, this definition shall not be construed in a manner inconsistent with such law.
+
+1.12 "Affiliates" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party. "Control" means ownership of substantially all of the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control may be direct or indirect.
+
+## Article 2: Basic License Grant
+
+2.1 Subject to compliance with the terms and conditions of this License, the Licensor grants you a worldwide, non-exclusive, royalty-free license to:
+    (a) Use, copy, and run the Software;
+    (b) Modify the Software and create Derivative Works;
+    (c) Distribute the Software, its modifications, and Derivative Works, in source or object form, provided that such distribution must maintain this License and recipients shall likewise be bound by all terms and conditions hereof.
+
+2.2 Any distribution must be accompanied by a complete copy of this License, or a publicly accessible persistent link (URL) to the official version of this License, and modifications must be prominently marked to indicate they have been modified.
+
+## Article 3: Mandatory Source Code Disclosure (Non-Overrideable)
+
+### 3.1 Disclosure Obligation
+
+Any Modification or Derivative Work based on the Software, whether for commercial or non-commercial purposes, and whether for internal use or external distribution, must have its Corresponding Source publicly disclosed in full.
+
+### 3.2 Methods of Disclosure
+
+When conveying the Software or its modified versions in object code form, the Corresponding Source must be provided concurrently under the terms of this License, in one of the following ways:
+
+(a) Physical Media: Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by the Corresponding Source fixed on a durable physical medium customarily used for software interchange;
+
+(b) Written Offer: Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years from the date of first distribution (or for as long as you offer spare parts or customer support for that product model, whichever is longer), to give anyone who possesses the object code either (1) a copy of the Corresponding Source on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or (2) access to copy the Corresponding Source from a network server at no charge;
+
+(c) Offer Relay: Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source. This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with subsection 3.2(b);
+
+(d) Network Distribution: Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge. If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source;
+
+(e) Peer-to-Peer Transmission: Convey the object code using peer-to-peer transmission, provided you inform other recipients where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 3.2(d).
+
+### 3.3 Format Requirements
+
+Corresponding Source conveyed under this Article must be in a format that is publicly documented, and must require no special password or key for unpacking, reading or copying.
+
+### 3.4 Scope of Application
+
+This Article applies to both internal use and external distribution, and to both commercial and non-commercial contexts. Any form of use involving deployment of binaries only without public disclosure of the Corresponding Source is strictly prohibited.
+
+### 3.5 User Products and Installation Information
+
+"User Product" means either (1) a "consumer product", which means any tangible personal property which is normally used for personal, family, or household purposes, or (2) anything designed or sold for incorporation into a dwelling. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage.
+
+"Installation Information" for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source. The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.
+
+If you convey an object code work under this Article in, or with, or specifically for use in, a User Product, and the conveying occurs as part of a transaction in which the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Corresponding Source conveyed under this Article must be accompanied by the Installation Information. But this requirement does not apply if neither you nor any third party retains the ability to install modified object code on the User Product (for example, the work has been installed in ROM).
+
+The requirement to provide Installation Information does not include a requirement to continue to provide support service, warranty, or updates for a work that has been modified or installed by the recipient, or for the User Product in which it has been modified or installed. Access to a network may be denied when the modification itself materially and adversely affects the operation of the network or violates the rules and protocols for communication across the network.
+
+### 3.6 Compliance Obligation
+
+Upon request by the Licensor, you shall provide access URLs to the Corresponding Source for each independent deployment environment (rather than each running instance) within thirty (30) days.
+
+## Article 4: Contributions and CLA (Non-Overrideable)
+
+4.1 Only Contributors (i.e., CLA Signatories) are entitled to submit Contributions to the Software.
+
+4.2 Upon execution of the CLA, the Contributor grants to the Licensor a perpetual, irrevocable, worldwide, royalty-free license to reproduce, modify, distribute, and otherwise exploit such contributions for the purposes of this License. The specific scope of rights granted shall be as set forth in the CLA.
+
+4.3 The Licensor retains the right to backport code from any fork, derivative work, or third-party version. "Backport" means the Licensor's right to merge publicly available code from forks or derivative works based on the Software into the Software or its official versions, without requiring separate permission from or payment to the original author of such code. Backporting does not alter the original license status of the code; however, once backported, such code becomes subject to this License.
+
+4.4 Content submitted by non-Contributors may be rejected by the Licensor.
+
+4.5 CLA Signatories must be natural persons only. The following entities shall not become CLA Signatories:
+    (a) Commercial entities, corporations, teams, organizations, or other non-human legal persons;
+    (b) Individuals or groups actively recruited or solicited by the Project Manager(s) for the purpose of acquiring voting rights.
+    "Project Manager(s)" means the Licensor or persons designated by the Licensor to be responsible for project governance.
+
+## Article 5: Anti-Competitive Fork and Trademark (Non-Overrideable)
+
+5.1 All rights granted under this License to a Competitive Fork (as defined in Article 1.10) shall terminate automatically.
+
+5.2 Continued use, modification, or distribution after such termination shall constitute infringement, and the Licensor reserves all rights to pursue legal action and claim damages.
+
+5.2a Objection Procedure: Before determining that a fork constitutes a Competitive Fork, the Licensor shall provide written notice to the maintainer(s) of such fork, specifying the basis for such determination. The fork maintainer(s) may submit a written objection and supporting evidence to the Licensor within thirty (30) days of receiving such notice. The Licensor shall make a final determination and respond in writing within thirty (30) days of receiving the objection. During the objection period, termination shall be stayed. If the Licensor finally determines that the fork is a Competitive Fork, such determination may be subject to review through the dispute resolution mechanism set forth in Article 10.
+
+5.3 The project name, trademark, and logo of the Software may not be used without the prior written authorization of the Licensor.
+
+5.4 This Article does not prevent you from using the original project's name or logo to accurately describe the relationship between your modified version and the original project.
+
+### 5.5 Disruptive Conduct Declaration
+
+This License acknowledges that the health of an open source community depends on the governance integrity of the project. Any conduct that has the direct or indirect purpose of disrupting the original project's community, including but not limited to systematically migrating the original project's community infrastructure, Contributors, or user base on the basis of an Interface-Conforming Implementation, while not necessarily constituting a direct violation of the express terms of this License, is explicitly discouraged and not endorsed by the Licensor. The Licensor reserves the right to take appropriate measures permitted by applicable law in response to such conduct.
+
+## Article 6: Additional Terms
+
+6.1 The Licensor may include additional terms in this Article as the Licensor deems appropriate for specific projects.
+
+6.2 Additional Terms must not conflict with Articles 1 through 5 and Article 9 of this License.
+
+6.3 Additional Terms must not violate applicable law.
+
+6.4 Once established, Additional Terms form an integral part of this License.
+
+## Article 7: Patent Terms (Non-Overrideable)
+
+7.1 The patent license granted by the Licensor under this License is limited to patent claims that are infringed by your Modification(s) or direct contributions to the Software. If you or your Affiliates initiate a patent infringement lawsuit against any entity alleging that the Software or a contribution contained therein constitutes direct or contributory patent infringement, then all rights (including patent licenses) granted to you under this License shall terminate automatically as of the date such litigation is filed.
+
+7.2 If you are a party to an arrangement with a third party that is in the business of distributing software, under which you make payment to the third party based on the extent of your activity of conveying the Licensed Work, and the third party grants a discriminatory patent license (a license that excludes, prohibits, or conditions the exercise of rights granted under this License) to recipients of the Licensed Work from you, then you may not convey the Licensed Work. This prohibition does not apply if the arrangement or patent license was entered into prior to July 9, 2026.
+
+## Article 8: Consequences of Violation
+
+8.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall terminate immediately and automatically (subject to Article 8.2 below).
+
+8.2 Cure Period: Notwithstanding Article 8.1, if this is the first time you have received notice of a violation from the Licensor, and you fully cure the violation within thirty (30) days after receiving such notice, the termination of this License shall be automatically reinstated retroactively as if it had never occurred. This cure opportunity is available only once.
+
+8.3 Upon termination, you must immediately cease all use, copying, modification, and distribution of the Software, and destroy all copies thereof.
+
+8.4 Continued use after termination constitutes infringement. The Licensor reserves all rights to pursue legal action and claim damages (including but not limited to actual losses, infringer's profits, and reasonable enforcement costs).
+
+8.5 Survival: Upon termination or expiration of this License, the following provisions shall survive and continue in full force and effect:
+    (a) Article 4.2 (Contribution grants) — licenses already granted by Contributors shall remain in effect;
+    (b) Article 8 (infringement liability and claims under this Article);
+    (c) Article 9 (Disclaimer and Limitation of Liability);
+    (d) Article 10 (Miscellaneous, including dispute resolution and governing law).
+
+## Article 9: Disclaimer and Limitation of Liability
+
+9.1 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+9.2 IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## Article 10: Miscellaneous
+
+10.1 This License is drafted in Chinese as the official language. In the event of any conflict between the Chinese version and a translation, the Chinese version shall prevail.
+
+10.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall first be resolved through good-faith negotiation. If negotiation fails, either the Licensor or you may elect to resolve the dispute by either of the following means:
+    (a) Submission to the competent People's Court at the Licensor's domicile; or
+    (b) Submission to the Singapore International Arbitration Centre (SIAC) or the Hong Kong International Arbitration Centre (HKIAC) for arbitration in accordance with its then-current arbitration rules. The place of arbitration shall be Singapore or Hong Kong (as selected by the party initiating arbitration), and the language of arbitration shall be English.
+
+10.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or adopt the new version.
+
+10.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+10.5 Any ambiguity in the terms of this License shall be interpreted in accordance with its purposes and general principles of law, and not necessarily in favor of the Licensor or any party.
+
+---
+
+DOCLFE v1.0 — Dsls Open Core License Free Edition
+This is a source-available license. It is not an OSI-approved open source license.
+This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.
+Copyright © Dsls Team
