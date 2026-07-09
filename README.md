@@ -144,6 +144,17 @@ Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCLFE-zh.txt
 
 ---
 
+## DOCL-Text — 文本作品许可证
+
+DOCL-Text 是 DOCL 家族中适用于文档、README、规格说明及网站内容的许可证。与 CC-BY-SA 不同，署名可指向项目而非个人，且与 DOCL/DOCLFE 明确兼容。
+
+| 版本 | 商用 | 署名 | 传染性 |
+|------|------|------|--------|
+| [DOCL-Text v1.0](DOCL-Text-v1.0.md) | ✅ 允许 | ✅ 必须 | ✅ 相同方式共享 |
+| [DOCL-Text-NC v1.0](DOCL-Text-NC-v1.0.md) | ❌ 禁止 | ✅ 必须 | ✅ 相同方式共享 |
+
+---
+
 ## 设计哲学
 
 DOCL 的设计基于以下信念：
