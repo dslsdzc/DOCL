@@ -231,7 +231,7 @@ DOCLFE（Dsls Open Core License Free Edition）v1.0 是一个源码可用（Sour
 
 10.15 权利累加：本许可证授予的权利是累加的，且不限制您依法享有的任何权利。
 
-10.16 因地制宜：本许可证的任何条款在某一司法管辖区内被认定为无效或不可执行的，该条款应在该司法管辖区内自动缩减至使该条款有效且可执行的最小范围。无法缩减的，该条款应在该司法管辖区内分离，不影响其余条款的效力。本款规定不影响该条款在其他司法管辖区内的效力和可执行性。
+10.16 地域适应性与有效性最大化：本许可证以在全球范围内最大程度有效为目标。任何条款在某一司法管辖区内被认定为无效或不可执行的，该条款应在该司法管辖区内自动缩减至使该条款有效且可执行的必要范围——以维持其最大效力为目标，而非缩减其适用。无法缩减的，该条款应在该司法管辖区内分离，不影响其余条款的效力。本款规定不影响该条款在其他司法管辖区内的效力和可执行性。在发生歧义时，应以使本许可证整体尽可能有效的方式解释条款。
 This is a source-available license. It is not an OSI-approved open source license.
 This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.
 Copyright © Dsls Team
