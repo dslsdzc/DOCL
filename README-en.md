@@ -164,8 +164,8 @@ The license is governed solely by the fixed text accompanying the Software. Refe
 
 ### Upstream Upgrade Right
 
-The Licensor may upgrade the license version without community approval:
-- Create a **dedicated commit** in the repository
+The Licensor may upgrade the license version without community approval, following the [dedicated commit specification](GOVERNANCE.md):
+- Create a commit containing only license file changes
 - Replace the license file and mark the new version number (e.g., v1.1)
 - Announce via official channels
 
