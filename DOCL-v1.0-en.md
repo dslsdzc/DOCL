@@ -45,10 +45,11 @@ This License applies to the software accompanying it (hereinafter referred to as
 1.11 **"Competitive Fork"** means any of the following:
     (a) A fork directly based on the source code of the Licensed Work that offers a product to third parties on a paid basis (including through paid support arrangements),
         where the functionality of such offering significantly overlaps with the capabilities of the Licensed Work or the Licensor's commercial offering(s) based on the Licensed Work.
+        Significant overlap shall be reasonably determined by the Licensor based on the functional scope, target users, and market positioning of the product in question.
         A product that is not competitive when first made generally available shall not become competitive solely due to the Licensor subsequently releasing a new version of the Licensed Work with additional capabilities;
     (b) An Interface-Conforming Implementation (as defined in Article 1.12) that exhibits any of the following characteristics —
         (i) It is offered to third parties on a paid basis;
-        (ii) It systematically migrates the original project's community infrastructure, including but not limited to issue tracking, discussion forums, documentation, or CI/CD configuration.
+        (ii) It systematically migrates the original project's community infrastructure. "Systematic migration" means the bulk copying or transfer of the original project's community assets through automated tools or processes, including but not limited to issue tracking, discussion forums, documentation, or CI/CD configuration.
             If the Licensor has given written notice and the migration has not ceased within fourteen (14) days, such migration shall be deemed systematic;
         (iii) Its primary recruitment target is the original project's CLA Signatories or Contributors, and such recruitment is not coordinated with or consented to by the Licensor.
 
@@ -62,7 +63,7 @@ This License applies to the software accompanying it (hereinafter referred to as
     (B) Forks distributed on a non-paid basis;
     (C) Products that were not competitive when first made generally available shall not become competitive solely due to the Licensor releasing a new version of the Licensed Work with additional capabilities. However, only versions of the Software available under this License prior to such change may be used for such purpose; later versions are subject to the standard competitive restriction.
 
-1.12 **"Interface-Conforming Implementation"** means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. If the Licensed Work provides an official compatibility test suite, an implementation capable of passing such test suite shall be presumed to be substantially the same. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof.
+1.12 **"Interface-Conforming Implementation"** means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. If the Licensed Work provides an official compatibility test suite, an implementation capable of passing such test suite shall be presumed to be substantially the same. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof; provided, however, that this definition applies only to the extent permitted by applicable law. In jurisdictions where interfaces are not protected by copyright or where reverse engineering is permitted by applicable law, this definition shall not be construed in a manner inconsistent with such law.
 
 1.13 **"Affiliates"** means any entity that directly or indirectly controls, is controlled by, or is under common control with a party. "Control" means ownership of substantially all of the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control may be direct or indirect.
 
