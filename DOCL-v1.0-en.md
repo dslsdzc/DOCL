@@ -140,7 +140,18 @@ Upon request by the Licensor, you shall provide access URLs to the Corresponding
     (c) **Approval Threshold**: A simple majority of voting CLA Signatories must approve;
     (d) **Notice Period**: Proposals involving a price increase of fifteen percent (15%) or more must be publicly noticed for no less than fifteen (15) days before voting;
     (e) **Cooling-off Period**: A rejected proposal may not be reintroduced within six (6) months from the voting date;
-    (f) The specific methodology for calculating contribution volume rankings shall be determined in the Additional Terms (Article 8).
+    (f) Contribution volume rankings shall be calculated using one of the following algorithms, as expressly selected by the Licensor in the Additional Terms. Once selected, the algorithm may not be changed unilaterally.
+
+        **Algorithm A (Simple Weighted):**
+        Contribution score = Merged PRs × 3 + Reviews × 2 + Valid Issues × 1 + Documentation & Translation submissions × 1
+        Lookback period: Last twelve (12) months
+
+        **Algorithm B (Time Decay):**
+        Contribution score = Σ(each contribution × weight) × decay factor
+        Decay schedule: 0–6 months ×1.0 | 6–12 months ×0.7 | 12–18 months ×0.4 | Over 18 months ×0.1
+        Lookback period: Unlimited
+
+        Any change to the selected algorithm requires community approval by a simple majority vote in accordance with this Article.
 
 ## Article 6: Contributions and CLA (Non-Overrideable)
 
