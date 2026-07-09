@@ -154,6 +154,39 @@ DOCL is built on the following principles:
 
 ---
 
+## License Governance
+
+This repository uses **DOCLFE** as its project license. Key governance rules:
+
+### Fixed Text
+
+The license is governed solely by the fixed text accompanying the Software. Referencing by URL is not permitted. Each distributed copy must include the full license text.
+
+### Upstream Upgrade Right
+
+The Licensor may upgrade the license version without community approval:
+- Create a **dedicated commit** in the repository
+- Replace the license file and mark the new version number (e.g., v1.1)
+- Announce via official channels
+
+All derived repositories (including GitHub forks, repos created after git clone, mirrors) must follow the upgrade. They may not select or fix a different version.
+
+### License Versioning
+
+The license text accompanying each commit pushed to GitHub constitutes the applicable terms for that version. Any change to the license file must be clearly marked with a new version number.
+
+### Derived Repository Responsibility
+
+Derived repositories are governed by the current license version in the upstream repository. Maintainers may not select or fix an older version. Failure to follow renders the repository a Competitive Fork and terminates the license.
+
+### Templates
+
+This repository provides the following templates:
+- `CLA-template.md` — Contributor License Agreement template
+- `Commercital-Exemption-template.md` — Commercial Exemption Agreement template
+
+---
+
 ## About Dsls Team
 
 DOCL is designed by the Dsls Team, a group focused on **software license governance** and **open source commercial sustainability**.
