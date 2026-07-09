@@ -56,6 +56,8 @@ This License applies to the software accompanying it (hereinafter referred to as
 
 1.12 **"Interface-Conforming Implementation"** means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof.
 
+1.13 **"Affiliates"** means any entity that directly or indirectly controls, is controlled by, or is under common control with a party. "Control" means ownership of substantially all of the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control may be direct or indirect.
+
 ## Article 2: Basic License Grant
 
 2.1 Subject to compliance with the terms of this License, the Licensor grants you a non-exclusive, worldwide, royalty-free license to:
@@ -115,6 +117,8 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 4.3 The Licensor retains the right to grant specific exemptions under Article 8 (Additional Terms).
 
+4.4 **Revenue Disclosure Obligation**: Any user engaging in Commercial Use of the Software, or claiming that their use does not constitute Commercial Use by virtue of the exemption in Article 1.6(a), shall publicly disclose on a quarterly basis, on a platform designated by the Licensor, the relevant revenue data directly or indirectly generated from the Software. Failure to comply with this disclosure obligation shall result in the loss of eligibility for the exemption under Article 1.6(a).
+
 ## Article 5: Pricing and Community Governance (Non-Overrideable)
 
 5.1 **Initial Set Price**: The initial commercial license price under this License is **USD 100,000 per month (one hundred thousand United States dollars)**.
@@ -162,37 +166,45 @@ This License recognizes that the health of an open source community depends on t
 
 8.1 The Licensor may include additional terms in this Article as needed for specific projects.
 
-8.2 Additional Terms must not conflict with Articles 1 through 7 and Article 10 of this License.
+8.2 Additional Terms must not conflict with Articles 1 through 7, Article 9, and Article 12 of this License.
 
 8.3 Additional Terms must not violate applicable law.
 
 8.4 Once established, Additional Terms form an integral part of this License.
 
-## Article 9: Consequences of Violation
+## Article 9: Patent Terms
 
-9.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall automatically terminate immediately.
+9.1 The patent license granted by the Licensor under this License is limited to patent claims that are infringed by your Modification(s) or direct contributions to the Software. If you or your Affiliates initiate a patent infringement lawsuit against any entity alleging that the Software or a contribution contained therein constitutes direct or contributory patent infringement, then all rights (including patent licenses) granted to you under this License shall terminate automatically as of the date such litigation is filed.
 
-9.2 Upon termination, you must immediately cease all use, copying, modification, and distribution of the Software, and destroy all copies thereof.
+9.2 If you are a party to an arrangement with a third party that is in the business of distributing software, under which you make payment to the third party based on the extent of your activity of conveying the Licensed Work, and the third party grants a discriminatory patent license (a license that excludes, prohibits, or conditions the exercise of rights granted under this License) to recipients of the Licensed Work from you, then you may not convey the Licensed Work. This prohibition does not apply if the arrangement or patent license was entered into prior to July 9, 2026.
 
-9.3 Continued use after termination constitutes infringement. The Licensor reserves all rights to pursue legal action and claim damages (including but not limited to actual losses, infringer's profits, and reasonable enforcement costs).
+## Article 10: Consequences of Violation
 
-## Article 10: Disclaimer and Limitation of Liability
+10.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall automatically terminate immediately.
 
-10.1 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+10.2 **Cure Period**: If this is the first time you have received notice of a violation from the Licensor, and you fully cure the violation within **thirty (30) days** after receiving such notice, then your license under this License will be reinstated permanently. This cure opportunity is available only once.
 
-10.2 IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+10.3 Upon termination, you must immediately cease all use, copying, modification, and distribution of the Software, and destroy all copies thereof.
 
-## Article 11: Miscellaneous
+10.4 Continued use after termination constitutes infringement. The Licensor reserves all rights to pursue legal action and claim damages (including but not limited to actual losses, infringer's profits, and reasonable enforcement costs).
 
-11.1 This License is drafted in Chinese as the official language. In the event of any conflict between the Chinese version and a translation, the Chinese version shall prevail.
+## Article 11: Disclaimer and Limitation of Liability
 
-11.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall be submitted to the competent People's Court at the Licensor's domicile.
+11.1 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-11.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or upgrade to the new version.
+11.2 IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-11.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+## Article 12: Miscellaneous
 
-11.5 The right of interpretation of this License vests in the Licensor; provided that such interpretation shall not conflict with the express terms of this License.
+12.1 This License is drafted in Chinese as the official language. In the event of any conflict between the Chinese version and a translation, the Chinese version shall prevail.
+
+12.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall be submitted to the competent People's Court at the Licensor's domicile.
+
+12.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or upgrade to the new version.
+
+12.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+12.5 The right of interpretation of this License vests in the Licensor; provided that such interpretation shall not conflict with the express terms of this License.
 
 ---
 
