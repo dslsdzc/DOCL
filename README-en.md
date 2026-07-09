@@ -104,6 +104,8 @@ Additional files (optional, as needed):
 | [DOCLFE-zh.md](DOCLFE-zh.md) | **DOCLFE v1.0 免费版（无商业条款，非 OSI 开源）** |
 | [DOCL-latest-en.txt](DOCL-latest-en.txt) | DOCL latest plain text |
 | [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | DOCL 最新版纯文本 |
+| [CLA-template.md](CLA-template.md) | Contributor License Agreement template |
+| [Commercital-Exemption-template.md](Commercital-Exemption-template.md) | Commercial Exemption Agreement template |
 
 ---
 

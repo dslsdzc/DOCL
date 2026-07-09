@@ -104,6 +104,8 @@ DOCL 不是一个单一的许可证，而是一个 **许可证体系**：
 | [DOCLFE-en.md](DOCLFE-en.md) | **DOCLFE v1.0 Free Edition (no commercial terms, not OSI-approved)** |
 | [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | DOCL 最新版纯文本（引用最新条款） |
 | [DOCL-latest-en.txt](DOCL-latest-en.txt) | DOCL latest plain text |
+| [CLA-template.md](CLA-template.md) | 贡献者许可协议模板 |
+| [Commercital-Exemption-template.md](Commercital-Exemption-template.md) | 商业豁免协议模板 |
 
 English version: [README-en.md](README-en.md)
 
