@@ -29,8 +29,9 @@ This License applies to the software accompanying it (hereinafter referred to as
     Corresponding Source does not include System Libraries, general-purpose tools, or generally available free programs used unmodified in performing those activities.
 
 1.6 "Commercial Use" means any activity that directly or indirectly generates economic benefit from the Software. The following activities shall not be considered Commercial Use:
-    (a) Activities generating monthly revenue less than 50% of the Set Price;
-    (b) Personal learning, academic research, or non-commercial open source projects.
+    (a) Activities generating monthly revenue (meaning all revenue from any product that uses the Software, including revenue from other products that use such product) less than 50% of the Set Price;
+    (b) Personal learning, academic research, or non-commercial open source projects;
+    (c) Use of the Software solely for internal business operations, without providing the Software or services based on the Software to third parties.
 
 1.7 "Set Price" means the commercial license price specified in this License, as set forth in Article 5, Section 5.1.
 
@@ -46,20 +47,20 @@ This License applies to the software accompanying it (hereinafter referred to as
     (a) A fork directly based on the source code of the Licensed Work that offers a product to third parties on a paid basis (including through paid support arrangements), where the functionality of such offering significantly overlaps with the capabilities of the Licensed Work or the Licensor's commercial offering(s) based on the Licensed Work. A product that is not competitive when first made generally available shall not become competitive solely due to the Licensor subsequently releasing a new version of the Licensed Work with additional capabilities;
     (b) An Interface-Conforming Implementation (as defined in Article 1.12) that exhibits any of the following characteristics —
         (i) It is offered to third parties on a paid basis;
-        (ii) It systematically migrates the original project's community infrastructure, including but not limited to issue tracking, discussion forums, documentation, or CI/CD configuration;
-        (iii) Its primary recruitment target is the original project's CLA Signatories or Contributors, with the intent of undermining the original project's community governance participation basis.
+        (ii) It systematically migrates the original project's community infrastructure, including but not limited to issue tracking, discussion forums, documentation, or CI/CD configuration. If the Licensor has given written notice and the migration has not ceased within fourteen (14) days, such migration shall be deemed systematic;
+        (iii) Its primary recruitment target is the original project's CLA Signatories or Contributors, and such recruitment is not coordinated with or consented to by the Licensor.
 
     "Embedded" means including the source code or executable code of the Licensed Work in a competitive offering as part of its distribution. The following circumstances all constitute embedding:
-    (i) Distributing the Licensed Work as an internal component or dependency of the competitive offering;
-    (ii) The competitive offering requires access to or download of the Licensed Work to operate;
-    (iii) Using the Licensed Work, in whole or in part, through linking, bundling, or integration within the competitive offering.
+    (x) Distributing the Licensed Work as an internal component or dependency of the competitive offering;
+    (y) The competitive offering requires access to or download of the Licensed Work to operate;
+    (z) Using the Licensed Work, in whole or in part, through linking, bundling, or integration within the competitive offering.
 
     The following shall not be deemed Competitive Forks:
     (a) Forks used solely internally and not offered to third parties;
     (b) Forks distributed on a non-paid basis;
     (c) Products that were not competitive when first made generally available shall not become competitive solely due to the Licensor releasing a new version of the Licensed Work with additional capabilities. However, only versions of the Software available under this License prior to such change may be used for such purpose; later versions are subject to the standard competitive restriction.
 
-1.12 "Interface-Conforming Implementation" means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof.
+1.12 "Interface-Conforming Implementation" means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. If the Licensed Work provides an official compatibility test suite, an implementation capable of passing such test suite shall be presumed to be substantially the same. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof.
 
 1.13 "Affiliates" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party. "Control" means ownership of substantially all of the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control may be direct or indirect.
 
@@ -68,7 +69,7 @@ This License applies to the software accompanying it (hereinafter referred to as
 2.1 Subject to compliance with the terms of this License, the Licensor grants you a non-exclusive, worldwide, royalty-free license to:
     (a) Use, copy, and run the Software;
     (b) Modify the Software and create Derivative Works;
-    (c) Distribute the Software and its modifications, in source or object form.
+    (c) Distribute the Software and its modifications, in source or object form, provided that such distribution must maintain this License and recipients shall likewise be bound by all terms and conditions hereof.
 
 2.2 Any distribution must be accompanied by a complete copy of this License, and modifications must be prominently marked as such.
 
@@ -112,7 +113,7 @@ The requirement to provide Installation Information does not include a requireme
 
 ### 3.6 Compliance Obligation
 
-Upon request by the Licensor, you must provide access URLs to the Corresponding Source for any deployed instance within thirty (30) days.
+Upon request by the Licensor, you must provide access URLs to the Corresponding Source for each independent deployment environment (rather than each running instance) within thirty (30) days.
 
 ## Article 4: Commercial Authorization (Non-Overrideable)
 
@@ -122,13 +123,13 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 4.3 The Licensor retains the right to grant specific exemptions under Article 8 (Additional Terms).
 
-4.4 Revenue Disclosure Obligation: Any user engaging in Commercial Use of the Software, or claiming that their use does not constitute Commercial Use by virtue of the exemption in Article 1.6(a), shall publicly disclose on a quarterly basis, on a platform designated by the Licensor, the relevant revenue data directly or indirectly generated from the Software. Failure to comply with this disclosure obligation shall result in the loss of eligibility for the exemption under Article 1.6(a).
+4.4 Revenue Disclosure Obligation: Any user engaging in Commercial Use of the Software, or claiming that their use does not constitute Commercial Use by virtue of the exemption in Article 1.6(a), shall publicly disclose on a quarterly basis, on a platform designated by the Licensor, the relevant revenue data directly or indirectly generated from the Software. Failure to comply with this disclosure obligation shall result in the loss of eligibility for the exemption under Article 1.6(a). This obligation shall be suspended if the Licensor has not yet designated a platform.
 
 ## Article 5: Pricing and Community Governance (Non-Overrideable)
 
 5.1 Initial Set Price: The initial commercial license price under this License is USD 100,000 per month (one hundred thousand United States dollars).
 
-5.2 Grandfathering: Adjustments to the Set Price shall not affect users who have already obtained commercial authorization at the then-prevailing price prior to such adjustment. Such users shall continue to be governed by the original price and terms for the duration of their authorization.
+5.2 Grandfathering: Adjustments to the Set Price shall not affect users who have already entered into a commercial exemption agreement prior to such adjustment. Such users shall continue to be governed by the original price and terms set forth in their agreement. The term of commercial authorization shall be as specified in the commercial exemption agreement.
 
 5.3 Price Adjustment Conditions: Any adjustment to the Set Price requires community approval under the following rules:
     (a) Proposal Right: Only the top ten (10) Contributors by contribution volume may propose a price adjustment;
@@ -142,7 +143,7 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 6.1 Only Contributors (i.e., CLA Signatories) are entitled to submit Contributions to the Software.
 
-6.2 Upon execution of the CLA, the Contributor grants to the Licensor a perpetual, irrevocable, worldwide, royalty-free license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute all past and future Contributions submitted by such Contributor. The specific scope of rights granted shall be as set forth in the CLA.
+6.2 Upon execution of the CLA, the Contributor grants to the Licensor a perpetual, irrevocable, worldwide, royalty-free license to reproduce, modify, distribute, and otherwise exploit such contributions for the purposes of this License. The specific scope of rights granted shall be as set forth in the CLA.
 
 6.3 The Licensor retains the right to backport code from any fork, derivative work, or third-party version. "Backport" means the Licensor's right to merge publicly available code from forks or derivative works based on the Software into the Software or its official versions, without requiring separate permission from or payment to the original author of such code. Backporting does not alter the original license status of the code; however, once backported, such code becomes subject to this License.
 
