@@ -56,9 +56,9 @@ This License applies to the software accompanying it (hereinafter referred to as
     (z) Using the Licensed Work, in whole or in part, through linking, bundling, or integration within the competitive offering.
 
     The following shall not be deemed Competitive Forks:
-    (a) Forks used solely internally and not offered to third parties;
-    (b) Forks distributed on a non-paid basis;
-    (c) Products that were not competitive when first made generally available shall not become competitive solely due to the Licensor releasing a new version of the Licensed Work with additional capabilities. However, only versions of the Software available under this License prior to such change may be used for such purpose; later versions are subject to the standard competitive restriction.
+    (A) Forks used solely internally and not offered to third parties;
+    (B) Forks distributed on a non-paid basis;
+    (C) Products that were not competitive when first made generally available shall not become competitive solely due to the Licensor releasing a new version of the Licensed Work with additional capabilities. However, only versions of the Software available under this License prior to such change may be used for such purpose; later versions are subject to the standard competitive restriction.
 
 1.12 **"Interface-Conforming Implementation"** means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. If the Licensed Work provides an official compatibility test suite, an implementation capable of passing such test suite shall be presumed to be substantially the same. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof.
 
