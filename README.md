@@ -72,9 +72,9 @@ DOCL 不是一个单一的许可证，而是一个 **许可证体系**：
 
 如果软件在用户产品（消费电子设备等）中分发，必须附带安装信息，确保修改后的版本可以在该设备上正常运行——堵住了"给源码但不让你装回去"的漏洞。
 
-### 反恶意分支
+### 反竞争性分支
 
-以实质相同的代码改名发布、未实现显著功能分化、意图替代原项目的分支，许可证自动终止。有独立路线图或实质性差异的分支不受影响。
+以付费方式向第三方提供功能显著重叠的产品（包括托管服务、嵌入形式或付费支持），且功能未实现显著分化的分支，许可证自动终止（参考 HashiCorp BSL 模式）。内部使用、非付费分发及首次发布时不具竞争性的产品不受影响。
 
 ### CLA + 贡献回采
 
@@ -106,10 +106,24 @@ DOCL 不是一个单一的许可证，而是一个 **许可证体系**：
 
 ## 如何在自己的项目中使用 DOCL
 
-1. **复制许可证文本**：将 [DOCL-v1.0-zh.txt](DOCL-v1.0-zh.txt) 放入项目根目录，命名为 `LICENSE`；
-2. **填写额外条款**：在第八条中填写你的项目特定的定价治理、豁免条件等；
-3. **准备 CLA**：基于 DOCL 的 CLA 模板签署贡献者许可协议；
-4. **准备商业豁免协议**：用于商业用户签署的商业授权合同模板。
+在项目根目录的 `LICENSE` 文件中引用 DOCL 即可，无需复制全文：
+
+**引用指定版本（推荐，条款稳定）：**
+```
+This project uses DOCL v1.0.
+Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCL-v1.0-zh.txt
+```
+
+**引用最新版本（随许可证更新自动适用）：**
+```
+This project uses DOCL.
+Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCL-latest-zh.txt
+```
+
+同时准备以下文件（可选，按需提供）：
+- **`ADDITIONAL_TERMS.md`** — 第八条（额外条款）的具体内容，包括你的项目特定的定价治理、豁免条件等；
+- **`COMMERCIAL_EXEMPTION.md`** — 商业豁免条款的价格、条件及签约方式；
+- **`CLA.md`** — 贡献者许可协议模板，或直接指向你的 CLA URL。
 
 > ⚠️ **免责声明**：DOCL 是一个许可证框架，不构成法律建议。使用前请咨询法律专业人士，确保其符合你的项目需求和适用法律。
 
@@ -119,10 +133,12 @@ DOCL 不是一个单一的许可证，而是一个 **许可证体系**：
 
 | 文件 | 说明 |
 |------|------|
-| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | 中文版（markdown） |
-| [DOCL-v1.0-zh.txt](DOCL-v1.0-zh.txt) | 中文版（纯文本） |
-| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | 英文版（markdown） |
-| [DOCL-v1.0-en.txt](DOCL-v1.0-en.txt) | 英文版（纯文本） |
+| [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | 中文版最新（无版本号，引用最新条款） |
+| [DOCL-latest-en.txt](DOCL-latest-en.txt) | English latest (no version, tracks latest terms) |
+| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | 中文版 v1.0（markdown） |
+| [DOCL-v1.0-zh.txt](DOCL-v1.0-zh.txt) | 中文版 v1.0（纯文本） |
+| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | English v1.0 (markdown) |
+| [DOCL-v1.0-en.txt](DOCL-v1.0-en.txt) | English v1.0 (plain text) |
 
 English version: [README-en.md](README-en.md)
 

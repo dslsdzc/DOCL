@@ -73,9 +73,9 @@ Any modification or derivative work, whether internal or external, commercial or
 
 When software is distributed in a User Product (consumer electronics, etc.), Installation Information must be provided to ensure modified versions can run on that hardware — closing the "give source but prevent installation" loophole.
 
-### Anti-Malicious Fork
+### Anti-Competitive Fork
 
-Forks that rename substantially identical code without meaningful functional differentiation, with intent to replace the original project, have their license automatically terminated. Forks with independent roadmaps or substantive differences are unaffected.
+Forks that offer the Software or its derivatives to third parties on a paid basis (including hosted services, embedded form, or paid support) with functionality that significantly overlaps with the Licensed Work's capabilities shall have their license automatically terminated (based on the HashiCorp BSL model). Internal use, non-paid distribution, and products that were not competitive when first released are unaffected.
 
 ### CLA + Code Backport
 
@@ -107,10 +107,24 @@ Licensors may add project-specific terms in Article 8, provided they do not conf
 
 ## Using DOCL in Your Project
 
-1. **Copy the license text**: Place [DOCL-v1.0-en.txt](DOCL-v1.0-en.txt) in your project root as `LICENSE`;
-2. **Fill in Additional Terms**: Define project-specific pricing governance, exemptions, etc., in Article 8;
-3. **Prepare a CLA**: Use the DOCL CLA template for contributor agreements;
-4. **Prepare a Commercial Exemption Agreement**: Template for commercial user contracts.
+In your project's `LICENSE` file, reference DOCL by URL — no need to copy the full text:
+
+**Pin to a specific version (recommended, stable terms):**
+```
+This project uses DOCL v1.0.
+Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCL-v1.0-en.txt
+```
+
+**Reference the latest version (auto-follows updates):**
+```
+This project uses DOCL.
+Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCL-latest-en.txt
+```
+
+Additional files (optional, as needed):
+- **`ADDITIONAL_TERMS.md`** — Project-specific terms for Article 8, including pricing governance, exemptions, etc.;
+- **`COMMERCIAL_EXEMPTION.md`** — Commercial license pricing, conditions, and execution instructions;
+- **`CLA.md`** — Contributor License Agreement template, or link to your CLA URL.
 
 > ⚠️ **Disclaimer**: DOCL is a license framework, not legal advice. Consult legal professionals before using it to ensure compliance with your project's needs and applicable law.
 
@@ -120,10 +134,12 @@ Licensors may add project-specific terms in Article 8, provided they do not conf
 
 | File | Description |
 |------|-------------|
-| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | English (markdown) |
-| [DOCL-v1.0-en.txt](DOCL-v1.0-en.txt) | English (plain text) |
-| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | Chinese (markdown) |
-| [DOCL-v1.0-zh.txt](DOCL-v1.0-zh.txt) | Chinese (plain text) |
+| [DOCL-latest-en.txt](DOCL-latest-en.txt) | English latest (no version, tracks latest terms) |
+| [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | 中文版最新（无版本号，引用最新条款） |
+| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | English v1.0 (markdown) |
+| [DOCL-v1.0-en.txt](DOCL-v1.0-en.txt) | English v1.0 (plain text) |
+| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | Chinese v1.0 (markdown) |
+| [DOCL-v1.0-zh.txt](DOCL-v1.0-zh.txt) | Chinese v1.0 (plain text) |
 
 ---
 

@@ -40,11 +40,21 @@ This License applies to the software accompanying it (hereinafter referred to as
 
 1.10 **"Contributor"** means an individual or entity that submits code, documentation, or other contributions to the Software.
 
-1.11 **"Malicious Fork"** means a fork that meets all of the following conditions:
-    (a) It submits source code substantially identical to the Software under a different name;
-    (b) It has not achieved significant functional differentiation from the original project;
-    (c) Its intent or effect is to replace, rather than complement, the original project.
-    A fork with an independent feature roadmap or substantive functional differences from the original project shall not be deemed a Malicious Fork.
+1.11 **"Competitive Fork"** means any of the following:
+    (a) A fork directly based on the source code of the Licensed Work that offers a product to third parties on a paid basis (including as a hosted service, embedded form, or through paid support arrangements), where the functionality of such offering significantly overlaps with the capabilities of the Licensed Work or the Licensor's commercial offering(s) based on the Licensed Work;
+    (b) An Interface-Conforming Implementation (as defined in Article 1.12) that exhibits any of the following characteristics —
+        (i) It is offered to third parties on a paid basis;
+        (ii) It systematically migrates the original project's community infrastructure (including but not limited to issue tracking, discussion forums, documentation wiki, and CI/CD configuration);
+        (iii) Its primary recruitment target is the original project's CLA Signatories or Contributors, with the intent of undermining the original project's community governance participation base.
+
+    **"Embedded"** means including the source code or executable code of the Licensed Work in a competitive offering, or packaging the competitive offering in such a way that the Licensed Work must be accessed or downloaded for the competitive offering to operate.
+
+    The following shall not be deemed Competitive Forks:
+    (a) Forks used solely internally and not offered to third parties;
+    (b) Forks distributed on a non-paid basis;
+    (c) Products that were not competitive when first made generally available shall not become competitive solely due to the Licensor releasing a new version of the Licensed Work with additional capabilities. However, only versions of the Software available under this License prior to such change may be used for such purpose; later versions are subject to the standard competitive restriction.
+
+1.12 **"Interface-Conforming Implementation"** means a software work independently developed that implements the same or substantially the same application programming interfaces (APIs), command-line interfaces, network protocols, or data formats as the Licensed Work. An Interface-Conforming Implementation shall be treated as a Modification (Derivative Work) under this License and is subject to all terms and conditions hereof.
 
 ## Article 2: Basic License Grant
 
@@ -129,15 +139,24 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 6.4 Contributions submitted without a signed CLA may be rejected by the Licensor.
 
-## Article 7: Anti-Malicious Fork and Trademark (Non-Overrideable)
+6.5 CLA Signatories must be natural persons only. The following entities shall not become CLA Signatories:
+    (a) Commercial entities, corporations, teams, organizations, or other non-human legal persons;
+    (b) Individuals or groups actively summoned, recruited, or invited by the Project Manager(s) for the purpose of acquiring voting rights.
+    "Project Manager(s)" means the Licensor or persons designated by the Licensor to be responsible for project governance.
 
-7.1 All rights granted under this License to a Malicious Fork (as defined in Article 1.11) shall automatically terminate.
+## Article 7: Anti-Competitive Fork and Trademark (Non-Overrideable)
+
+7.1 All rights granted under this License to a Competitive Fork (as defined in Article 1.11) shall automatically terminate.
 
 7.2 Continued use, modification, or distribution after such termination shall constitute infringement, and the Licensor reserves all rights to pursue legal action and claim damages.
 
 7.3 The project name, trademark, and logo of the Software may not be used without the prior written authorization of the Licensor.
 
 7.4 This Article does not prevent you from using the original project's name or logo to accurately describe the relationship between your modified version and the original project.
+
+### 7.5 Disruptive Conduct Declaration
+
+This License recognizes that the health of an open source community depends on the governance integrity of the project. Any conduct that has the direct or indirect purpose of disrupting the original project's community, including but not limited to systematically migrating the original project's community infrastructure, Contributors, or user base on the basis of an Interface-Conforming Implementation, while not necessarily constituting a direct violation of the express terms of this License, is explicitly discouraged and not endorsed by the Licensor. The Licensor reserves the right to take appropriate measures permitted by applicable law in response to such conduct.
 
 ## Article 8: Additional Terms
 
