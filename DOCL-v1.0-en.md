@@ -1,0 +1,181 @@
+# DOCL v1.0 — Dsls Open Core License (English Version)
+
+**DOCL (Dsls Open Core License) v1.0** is a source-available license framework designed by the Dsls Team.
+It seeks a balance between commercial sustainability and community trust: all modifications and derivative works must publicly disclose source code,
+commercial use requires separate authorization, and pricing is subject to community governance.
+
+---
+
+## Preamble
+
+This License applies to the software accompanying it (hereinafter referred to as the "Software" or "Licensed Work"). By using, copying, distributing, or modifying the Software, you accept and agree to be bound by all terms and conditions of this License. If you do not agree, do not use, copy, distribute, or modify the Software.
+
+**"Licensor"** means the entity or individual that provides the Software and designates this License.
+
+## Article 1: Definitions
+
+1.1 **"Software"** or **"Licensed Work"** means the original work published by the Licensor under this License, together with all modified versions thereof.
+
+1.2 **"Modification"** means any addition to, deletion from, or change to the source code of the Software, including but not limited to code changes, feature additions or removals, and bug fixes.
+
+1.3 **"Derivative Work"** means any work that is based on, derived from, adapted from, or refactored from the Software, in whole or in part.
+
+1.4 **"Source Code"** means the preferred form of the work for making modifications to it, including all necessary build scripts, configuration files, dependency declarations, and documentation comments.
+
+1.5 **"Corresponding Source"** means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities. Corresponding Source includes, but is not limited to:
+    (a) Source code for all modules and interface definition files;
+    (b) Source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require;
+    (c) Build systems, Makefiles, configuration files, and compilation instructions.
+    Corresponding Source does not include System Libraries, general-purpose tools, or generally available free programs used unmodified in performing those activities.
+
+1.6 **"Commercial Use"** means any activity that directly or indirectly generates economic benefit from the Software. The following activities shall not be considered Commercial Use:
+    (a) Activities generating monthly revenue less than 50% of the Set Price;
+    (b) Personal learning, academic research, or non-commercial open source projects.
+
+1.7 **"Set Price"** means the commercial license price specified in this License, as set forth in Article 5, Section 5.1.
+
+1.8 **"CLA"** (Contributor License Agreement) means the contributor license agreement executed between a Contributor and the Licensor.
+
+1.9 **"CLA Signatory"** means an individual or entity that has executed a currently valid CLA.
+
+1.10 **"Contributor"** means an individual or entity that submits code, documentation, or other contributions to the Software.
+
+1.11 **"Malicious Fork"** means a fork that meets all of the following conditions:
+    (a) It submits source code substantially identical to the Software under a different name;
+    (b) It has not achieved significant functional differentiation from the original project;
+    (c) Its intent or effect is to replace, rather than complement, the original project.
+    A fork with an independent feature roadmap or substantive functional differences from the original project shall not be deemed a Malicious Fork.
+
+## Article 2: Basic License Grant
+
+2.1 Subject to compliance with the terms of this License, the Licensor grants you a non-exclusive, worldwide, royalty-free license to:
+    (a) Use, copy, and run the Software;
+    (b) Modify the Software and create Derivative Works;
+    (c) Distribute the Software and its modifications, in source or object form.
+
+2.2 Any distribution must be accompanied by a complete copy of this License, and modifications must be prominently marked as such.
+
+## Article 3: Mandatory Source Code Disclosure (Non-Overrideable)
+
+### 3.1 Disclosure Obligation
+
+Any Modification or Derivative Work based on the Software, whether for commercial or non-commercial purposes, and whether for internal use or external distribution, must have its Corresponding Source publicly disclosed in full.
+
+### 3.2 Methods of Disclosure
+
+When conveying the Software or its modified versions in object code form, the Corresponding Source must be provided concurrently under the terms of this License, in one of the following ways:
+
+(a) **Physical Media**: Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by the Corresponding Source fixed on a durable physical medium customarily used for software interchange;
+
+(b) **Written Offer**: Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years from the date of first distribution (or for as long as you offer spare parts or customer support for that product model, whichever is longer), to give anyone who possesses the object code either (1) a copy of the Corresponding Source on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or (2) access to copy the Corresponding Source from a network server at no charge;
+
+(c) **Offer Relay**: Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source. This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with subsection 3.2(b);
+
+(d) **Network Distribution**: Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge. If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source;
+
+(e) **Peer-to-Peer Transmission**: Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 3.2(d).
+
+### 3.3 Format Requirements
+
+Corresponding Source conveyed under this Article must be in a format that is publicly documented, and must require no special password or key for unpacking, reading or copying.
+
+### 3.4 Scope of Application
+
+This Article applies to both internal use and external distribution, and to both commercial and non-commercial contexts. Any form of use involving deployment of binaries only without public disclosure of the Corresponding Source is strictly prohibited.
+
+### 3.5 User Products and Installation Information
+
+**"User Product"** means either (1) a "consumer product", which means any tangible personal property which is normally used for personal, family, or household purposes, or (2) anything designed or sold for incorporation into a dwelling. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage.
+
+**"Installation Information"** for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source. The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.
+
+If you convey an object code work under this Article in, or with, or specifically for use in, a User Product, and the conveying occurs as part of a transaction in which the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Corresponding Source conveyed under this Article must be accompanied by the Installation Information. But this requirement does not apply if neither you nor any third party retains the ability to install modified object code on the User Product (for example, the work has been installed in ROM).
+
+The requirement to provide Installation Information does not include a requirement to continue to provide support service, warranty, or updates for a work that has been modified or installed by the recipient, or for the User Product in which it has been modified or installed. Access to a network may be denied when the modification itself materially and adversely affects the operation of the network or violates the rules and protocols for communication across the network.
+
+### 3.6 Compliance Obligation
+
+Upon request by the Licensor, you must provide access URLs to the Corresponding Source for any deployed instance within thirty (30) days.
+
+## Article 4: Commercial Authorization (Non-Overrideable)
+
+4.1 Commercial Use of the Software (as defined in Article 1.6) requires the purchase of a commercial license from the Licensor in accordance with this Article.
+
+4.2 Engaging in Commercial Use without obtaining a commercial license shall result in the automatic termination of this License.
+
+4.3 The Licensor retains the right to grant specific exemptions under Article 8 (Additional Terms).
+
+## Article 5: Pricing and Community Governance (Non-Overrideable)
+
+5.1 **Initial Set Price**: The initial commercial license price under this License is **USD 100,000 per month (one hundred thousand United States dollars)**.
+
+5.2 **Grandfathering**: Adjustments to the Set Price shall not affect users who have already obtained commercial authorization at the then-prevailing price prior to such adjustment. Such users shall continue to be governed by the original price and terms for the duration of their authorization.
+
+5.3 **Price Adjustment Conditions**: Any adjustment to the Set Price requires community approval under the following rules:
+    (a) **Proposal Right**: Only the top ten (10) Contributors by contribution volume may propose a price adjustment;
+    (b) **Voting Right**: All CLA Signatories have one vote each;
+    (c) **Approval Threshold**: More than fifty percent (50%) of voting CLA Signatories must approve;
+    (d) **Notice Period**: Proposals involving a price increase of fifteen percent (15%) or more must be publicly noticed for no less than fifteen (15) days before voting;
+    (e) **Cooling-off Period**: A rejected proposal may not be reintroduced within six (6) months from the voting date;
+    (f) The specific methodology for calculating contribution volume rankings shall be determined in the Additional Terms (Article 8).
+
+## Article 6: Contributions and CLA (Non-Overrideable)
+
+6.1 All contributions submitted to the Software require a signed CLA as a precondition.
+
+6.2 Under the CLA, copyright (including intellectual property rights) in contributions vests in the Licensor or its designated project entity.
+
+6.3 The Licensor retains the right to backport code from any fork, derivative work, or third-party version.
+
+6.4 Contributions submitted without a signed CLA may be rejected by the Licensor.
+
+## Article 7: Anti-Malicious Fork and Trademark (Non-Overrideable)
+
+7.1 All rights granted under this License to a Malicious Fork (as defined in Article 1.11) shall automatically terminate.
+
+7.2 Continued use, modification, or distribution after such termination shall constitute infringement, and the Licensor reserves all rights to pursue legal action and claim damages.
+
+7.3 The project name, trademark, and logo of the Software may not be used without the prior written authorization of the Licensor.
+
+7.4 This Article does not prevent you from using the original project's name or logo to accurately describe the relationship between your modified version and the original project.
+
+## Article 8: Additional Terms
+
+8.1 The Licensor may include additional terms in this Article as needed for specific projects.
+
+8.2 Additional Terms must not conflict with Articles 1 through 7 and Article 10 of this License.
+
+8.3 Additional Terms must not violate applicable law.
+
+8.4 Once established, Additional Terms form an integral part of this License.
+
+## Article 9: Consequences of Violation
+
+9.1 If the Licensor has reasonable grounds to believe that you have failed to comply with any term of this License, this License shall automatically terminate immediately.
+
+9.2 Upon termination, you must immediately cease all use, copying, modification, and distribution of the Software, and destroy all copies thereof.
+
+9.3 Continued use after termination constitutes infringement. The Licensor reserves all rights to pursue legal action and claim damages (including but not limited to actual losses, infringer's profits, and reasonable enforcement costs).
+
+## Article 10: Disclaimer and Limitation of Liability
+
+10.1 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+10.2 IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## Article 11: Miscellaneous
+
+11.1 This License is drafted in Chinese as the official language. In the event of any conflict between the Chinese version and a translation, the Chinese version shall prevail.
+
+11.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall be submitted to the competent People's Court at the Licensor's domicile.
+
+11.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or upgrade to the new version.
+
+11.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+11.5 The right of interpretation of this License vests in the Licensor; provided that such interpretation shall not conflict with the express terms of this License.
+
+---
+
+*DOCL v1.0 — Dsls Open Core License*
+*Copyright © Dsls Team*
