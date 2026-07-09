@@ -18,8 +18,12 @@ This License applies to the software accompanying it (hereinafter referred to as
 
 1.2 **"Modification"** means any of the following:
     (a) Any addition to, deletion from, or change to the source code of the Software, including but not limited to code changes, feature additions or removals, and bug fixes;
-    (b) Any technical means that materially alters the functionality, behavior, or output of the Software without directly modifying its source code, including but not limited to runtime injection, process hijacking, LD_PRELOAD, eBPF programs, kernel modules, plugin or extension systems, sidecar proxies, network interception, or dynamic linking hijacking;
-    (c) Embedding or integrating the Software into another software system where the Software's functionality constitutes a core value component of such system.
+    (b) Any technical means that materially alters the functionality, behavior, or output of the Software without directly modifying its source code, including but not limited to runtime injection, process hijacking, LD_PRELOAD, eBPF programs, kernel modules, sidecar proxies, network interception, or dynamic linking hijacking;
+    (c) Making substantive changes to the Software's configuration files that materially alter the Software's behavior or output;
+    (d) Using the Software's output (including but not limited to generated content, data, or processing results) as a dataset or input source for training, fine-tuning, or developing another artificial intelligence or machine learning model;
+    (e) Embedding or integrating the Software into another software system where the Software's functionality constitutes a core value component of such system.
+    
+    Mere invocation of the Software's services through standard network APIs, without modifying, embedding, or integrating the Software, shall not constitute a Modification.
 
 1.3 **"Derivative Work"** means any work that is based on, derived from, adapted from, or refactored from the Software, in whole or in part.
 
