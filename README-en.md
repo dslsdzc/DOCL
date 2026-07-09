@@ -83,19 +83,7 @@ Licensors may add project-specific terms in Article 8, provided they do not conf
 
 ## Using DOCL/DOCLFE in Your Project
 
-In your project's `LICENSE` file, reference DOCL or DOCLFE by URL — no need to copy the full text:
-
-**Pin to a specific version (recommended, stable terms):**
-```
-This project uses DOCL v1.0.
-Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCL-v1.0-en.txt
-```
-
-**Reference the latest version (auto-follows updates):**
-```
-This project uses DOCL.
-Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCL-latest-en.txt
-```
+Copy the license text into your project's `LICENSE` file. The full text must be included; referencing by URL only is not permitted.
 
 Additional files (optional, as needed):
 - **`ADDITIONAL_TERMS.md`** — Project-specific terms for Article 8, including pricing governance, exemptions, etc.;
@@ -134,11 +122,7 @@ DOCLFE is a free variant of DOCL, with commercial authorization and pricing gove
 | Patent retaliation | ✅ | ✅ |
 | OSI-approved | ❌ | ❌ |
 
-Project reference example:
-```
-This project uses DOCLFE v1.0.
-Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCLFE-en.txt
-```
+Usage: Copy the full license text into your project's `LICENSE` file.
 
 ---
 

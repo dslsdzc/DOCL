@@ -197,11 +197,11 @@ This License acknowledges that the health of an open source community depends on
 
 10.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or adopt the new version.
 
-10.3a **Version Reference and Upstream Tracking**:
-    (a) This License may be referenced by a specific version number (e.g., v1.0) or by a link to the official latest version.
-    (b) **Default Rule**: Unless you expressly state a specific version number, you are governed by the latest version of this License.
-    (c) **Upstream Upgrade Right**: The Licensor of the original project may upgrade the license version applied to their project. Such upgrade must be effected through a **dedicated commit** in the repository that is not merged, squashed, or combined with other code changes, and must publish a new version number (e.g., v1.1, v2.0). Upon such upgrade, all forks based on that project **must follow** the upgrade. Fork maintainers may not fix or select a version on their own; failure to follow shall render the fork a Competitive Fork. A fork's license version is determined by the version corresponding to the most recent upstream commit it is based upon.
-    (d) Version updates are not retroactive — copies already distributed under a prior version continue to be governed by such prior version. However, after the update takes effect, your continued use of the Software (including but not limited to running, modifying, and distributing) shall be governed by the new version.
+10.3a **Fixed Text and Upstream Upgrade**:
+    (a) This License is governed solely by the fixed text accompanying the Software in the project repository. Referencing this License via external URL links is not permitted.
+    (b) The Licensor of the original project may actively upgrade the license version applied to their project, without requiring community approval. Such upgrade is effected by replacing the license file in the repository and marking the new version number.
+    (c) Upon such upgrade, all forks based on that project **must follow** the upgrade, and shall be governed by the current version in the upstream repository. Fork maintainers may not select or fix an older version; failure to follow shall render the fork a Competitive Fork.
+    (d) Version updates are not retroactive — copies already distributed prior to the upgrade shall continue to be governed by the prior version. However, after the upgrade, your continued use of the Software (including but not limited to running, modifying, and distributing) shall be governed by the new version. The prior version shall no longer be available for new licenses.
 
     Updates are categorized as follows:
     (a) **Non-Material Updates** — clarifications, loophole fixes, explanatory supplements to existing terms, and restrictions on abusive uses that could not reasonably have been foreseen at the time of the Software's release. Non-material updates take effect **seven (7) days** after publication by the Licensor through official channels (including but not limited to the project repository Release page or official announcements). Conduct engaged in prior to the effective date shall not be deemed a violation of the updated terms.
