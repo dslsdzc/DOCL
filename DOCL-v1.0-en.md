@@ -71,7 +71,7 @@ This License applies to the software accompanying it (hereinafter referred to as
 2.1 Subject to compliance with the terms of this License, the Licensor grants you a non-exclusive, worldwide, royalty-free license to:
     (a) Use, copy, and run the Software;
     (b) Modify the Software and create Derivative Works;
-    (c) Distribute the Software and its modifications, in source or object form, provided that such distribution must maintain this License and recipients shall likewise be bound by all terms and conditions hereof.
+    (c) Distribute the Software, its modifications, and Derivative Works, in source or object form, provided that such distribution must maintain this License and recipients shall likewise be bound by all terms and conditions hereof.
 
 2.2 Any distribution must be accompanied by a complete copy of this License, and modifications must be prominently marked as such.
 
