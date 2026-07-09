@@ -29,37 +29,11 @@ The license itself is a governance contract — not just a legal text, but a **p
 
 DOCL is not a single license, but a **license system**:
 
-```
-┌─────────────────────────────────────────┐
-│  ① Main License (DOCL v1.0)            │
-│  ┌─────────────────────────────────────┐│
-│  │ • Mandatory source disclosure       ││
-│  │ • Anti-malicious fork + trademark   ││
-│  │ • CLA + code backport rights        ││
-│  │ • Commercial use requires license   ││
-│  │ • Disclaimer & liability limits     ││
-│  └─────────────────────────────────────┘│
-│           Non-Overrideable               │
-├─────────────────────────────────────────┤
-│  ② Additional Terms                     │
-│  ┌─────────────────────────────────────┐│
-│  │ • Freely defined by licensor        ││
-│  │ • E.g., exemptions, moat clauses    ││
-│  │ • Must not conflict with core terms ││
-│  └─────────────────────────────────────┘│
-│           Customizable                   │
-├─────────────────────────────────────────┤
-│  ③ Pricing & Community Governance       │
-│  ┌─────────────────────────────────────┐│
-│  │ • Initial price is public           ││
-│  │ • Changes require 51% community vote││
-│  │ • Increases ≥15% require ≥15 day    ││
-│  │   public notice                     ││
-│  │ • Existing users grandfathered      ││
-│  └─────────────────────────────────────┘│
-│           Non-Overrideable               │
-└─────────────────────────────────────────┘
-```
+| Layer | Status | Content |
+|-------|--------|---------|
+| **① Main License** DOCL v1.0 | **Non-Overrideable** | Mandatory source disclosure · Anti-competitive fork · CLA + backport · Commercial use requires license · Disclaimer |
+| **② Additional Terms** | **Customizable** | Licensor-defined exemptions, moat clauses, etc. Must not conflict with main license |
+| **③ Pricing & Community Governance** | **Non-Overrideable** | Initial price $100k/mo · Changes require 51% community vote · ≥15% increase needs public notice · Grandfathering |
 
 ---
 
