@@ -207,13 +207,15 @@ This License acknowledges that the health of an open source community depends on
 
 12.1 This License is drafted in Chinese as the official language. In the event of any conflict between the Chinese version and a translation, the Chinese version shall prevail.
 
-12.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall be submitted to the competent People's Court at the Licensor's domicile.
+12.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall first be resolved through good-faith negotiation. If negotiation fails, either the Licensor or you may elect to resolve the dispute by either of the following means:
+    (a) Submission to the competent People's Court at the Licensor's domicile; or
+    (b) Submission to the Singapore International Arbitration Centre (SIAC) or the Hong Kong International Arbitration Centre (HKIAC) for arbitration in accordance with its then-current arbitration rules. The place of arbitration shall be Singapore or Hong Kong (as selected by the party initiating arbitration), and the language of arbitration shall be English.
 
 12.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or adopt the new version.
 
 12.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
-12.5 The right of interpretation of this License vests in the Licensor; provided that such interpretation shall not conflict with the express terms of this License.
+12.5 Any ambiguity in the terms of this License shall be interpreted in accordance with its purposes and general principles of law, and not necessarily in favor of the Licensor or any party.
 
 ---
 
