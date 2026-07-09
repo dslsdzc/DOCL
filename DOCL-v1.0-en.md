@@ -246,6 +246,8 @@ This License acknowledges that the health of an open source community depends on
 
 12.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or adopt the new version.
 
+12.3a **Version Reference and Retroactivity**: This License may be referenced by a specific version number (e.g., v1.0) or by "latest." If you reference "latest," you accept updates to subsequent versions of this License; however, updates shall **not be retroactive**. Copies already distributed or activities already conducted under the prior version shall continue to be governed by such prior version. New versions apply only to software versions first released or distributed after such update. If you believe an update materially increases your obligations, you may, within sixty (60) days of becoming aware of such update, notify the Licensor that you reject the update and continue under the prior version.
+
 12.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 12.5 Any ambiguity in the terms of this License shall be interpreted in accordance with its purposes and general principles of law, and not necessarily in favor of the Licensor or any party.
