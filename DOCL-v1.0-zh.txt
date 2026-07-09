@@ -273,5 +273,11 @@ DOCL（Dsls Open Core License）v1.0 是一个源码可用（Source-Available）
 12.11 反诱导侵权：您不得故意诱导或协助他人侵犯本软件或其贡献者的知识产权。违反本款的本许可证自动终止。
 
 12.12 通知方式：本许可证项下的任何通知，以书面形式发出并能够证明送达的（包括但不限于电子邮件、挂号信、快递、GitHub Issue 或 Pull Request），即视为有效送达。
+
+12.13 关联方约束：本许可证中提及的"您"包含您的关联方（定义见第 1.12 条）。您的关联方违反本许可证的行为，视为您的行为。
+
+12.14 完整协议：本许可证（包括其第八条额外条款及商业豁免协议）构成您与版权持有方之间就本软件达成的完整和排他性协议，取代此前所有相关的口头、书面或电子沟通与约定。
+
+12.15 权利累加：本许可证授予的权利是累加的，且不限制您依法享有的任何权利。
 This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.
 Copyright © Dsls Team

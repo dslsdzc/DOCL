@@ -220,6 +220,12 @@ This License acknowledges that the health of an open source community depends on
 10.11 **No Inducement of Infringement**: You shall not knowingly induce or assist others in infringing the intellectual property rights of the Software or its Contributors. Violation of this provision shall result in automatic termination of this License.
 
 10.12 **Notice**: Any notice under this License shall be deemed effectively served if given in writing and capable of being evidenced (including but not limited by email, registered mail, courier, GitHub Issue, or Pull Request).
+
+10.13 **Affiliate Binding**: References to "you" in this License include your Affiliates (as defined in Article 1.12). A violation of this License by your Affiliate shall be deemed a violation by you.
+
+10.14 **Entire Agreement**: This License (including its Additional Terms under Article 8 and any Commercial Exemption Agreement) constitutes the entire and exclusive agreement between you and the Licensor with respect to the Software, superseding all prior oral, written, or electronic communications and arrangements.
+
+10.15 **Rights Cumulative**: The rights granted under this License are cumulative and do not limit any rights you may otherwise have under applicable law.
 *This is a source-available license. It is not an OSI-approved open source license.*
 *This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.*
 *Copyright © Dsls Team*
