@@ -1,7 +1,7 @@
 # DOCLFE v1.0 — Dsls Open Core License Free Edition
 
 DOCLFE（Dsls Open Core License Free Edition）v1.0 是一个源码可用（Source-Available）许可证框架，由 Dsls 团队设计。
-本版本为免费版：所有修改和衍生作品必须公开源码，且强制程度高于 GPLv3，
+它追求的是透明，而非开源。本版本为免费版：所有修改和衍生作品必须公开源码，且强制程度高于 GPLv3，
 但不属于 OSI 批准的开源许可证。
 
 ---

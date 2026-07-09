@@ -1,7 +1,7 @@
 # DOCL v1.0 — Dsls Open Core License (English Version)
 
 DOCL (Dsls Open Core License) v1.0 is a source-available license framework designed by the Dsls Team.
-It seeks a balance between commercial sustainability and community trust: all modifications and derivative works must publicly disclose source code,
+It pursues transparency, not open source. It seeks a balance between commercial sustainability and community trust: all modifications and derivative works must publicly disclose source code,
 commercial use requires separate authorization, and pricing is subject to community governance.
 
 ---
