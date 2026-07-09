@@ -29,9 +29,8 @@ This License applies to the software accompanying it (hereinafter referred to as
     Corresponding Source does not include System Libraries, general-purpose tools, or generally available free programs used unmodified in performing those activities.
 
 1.6 **"Commercial Use"** means any activity that directly or indirectly generates economic benefit from the Software. The following activities shall not be considered Commercial Use:
-    (a) Activities generating monthly revenue (meaning all revenue from any product that uses the Software, including revenue from other products that use such product) less than 50% of the Set Price;
-    (b) Personal learning, academic research, or non-commercial open source projects;
-    (c) Use of the Software solely for internal business operations, without providing the Software or services based on the Software to third parties.
+    (a) Activities generating total monthly revenue (meaning all revenue from any product that uses the Software, including revenue from other products that use such product) less than 50% of the Set Price;
+    (b) Personal learning, academic research, or non-commercial open source projects.
 
 1.7 **"Set Price"** means the commercial license price specified in this License, as set forth in Article 5, Section 5.1.
 
