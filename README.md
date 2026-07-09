@@ -92,15 +92,15 @@ DOCL 不是一个单一的许可证，而是一个 **许可证体系**：
 
 ## 与其他许可证的比较
 
-| | GPLv3 | BSL | ELv2 | DOCL |
-|--|-------|-----|------|------|
-| 源码公开 | ✅ 强制 | ✅ 强制 | ✅ 强制 | ✅ 强制 |
-| 反 TiVo | ✅ | ❌ | ❌ | ✅ |
-| 商业限制 | ❌ | ✅ 有时间锁 | ✅ 仅限托管服务 | ✅ 全面商业授权 |
-| 定价透明 | N/A | ❌ 不公开 | ❌ 不公开 | ✅ 公开 + 社区治理 |
-| 社区定价权 | N/A | ❌ | ❌ | ✅ 51% 投票 |
-| CLA 机制 | 可选 | 可选 | 可选 | ✅ 强制 |
-| 额外条款 | ⚠️ 限白名单 | ✅ 自由 | ✅ 自由 | ✅ 自由 |
+| | GPLv3 | BSL | ELv2 | DOCL | **DOCLFE** |
+|--|-------|-----|------|------|----------|
+| 源码公开 | ✅ 强制 | ✅ 强制 | ✅ 强制 | ✅ 强制 | ✅ 强制 |
+| 反 TiVo | ✅ | ❌ | ❌ | ✅ | ✅ |
+| 商业限制 | ❌ | ✅ 有时间锁 | ✅ 仅限托管服务 | ✅ 全面商业授权 | ❌ 免费 |
+| 定价透明 | N/A | ❌ 不公开 | ❌ 不公开 | ✅ 公开 + 社区治理 | N/A |
+| 社区定价权 | N/A | ❌ | ❌ | ✅ 51% 投票 | N/A |
+| CLA 机制 | 可选 | 可选 | 可选 | ✅ 强制 | ✅ 强制 |
+| 额外条款 | ⚠️ 限白名单 | ✅ 自由 | ✅ 自由 | ✅ 自由 | ✅ 自由 |
 
 ---
 
@@ -133,14 +133,37 @@ Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCL-latest-zh.txt
 
 | 文件 | 说明 |
 |------|------|
-| [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | 中文版最新（无版本号，引用最新条款） |
-| [DOCL-latest-en.txt](DOCL-latest-en.txt) | English latest (no version, tracks latest terms) |
-| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | 中文版 v1.0（markdown） |
-| [DOCL-v1.0-zh.txt](DOCL-v1.0-zh.txt) | 中文版 v1.0（纯文本） |
-| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | English v1.0 (markdown) |
-| [DOCL-v1.0-en.txt](DOCL-v1.0-en.txt) | English v1.0 (plain text) |
+| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | DOCL v1.0 标准版（含商业授权）- 中文 |
+| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | DOCL v1.0 Standard (with commercial terms) - English |
+| [DOCLFE-zh.md](DOCLFE-zh.md) | **DOCLFE v1.0 免费版（无商业条款，非 OSI 开源）** |
+| [DOCLFE-en.md](DOCLFE-en.md) | **DOCLFE v1.0 Free Edition (no commercial terms, not OSI-approved)** |
+| [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | DOCL 最新版纯文本（引用最新条款） |
+| [DOCL-latest-en.txt](DOCL-latest-en.txt) | DOCL latest plain text |
 
 English version: [README-en.md](README-en.md)
+
+---
+
+## DOCLFE — 免费版
+
+DOCLFE 是 DOCL 的免费变体，去除了商业授权和定价治理条款，适合不希望涉及商业授权的项目使用。
+
+**与 DOCL v1.0 标准版的区别：**
+
+| | DOCL v1.0 | DOCLFE |
+|---|---|---|
+| 商业授权 | ✅ $100k/月 | ❌ 免费 |
+| 源码强制公开 | ✅ 比 GPLv3 更严 | ✅ 相同 |
+| CLA + 回采 | ✅ | ✅ |
+| 反竞争性分支 | ✅ | ✅ |
+| 专利报复 | ✅ | ✅ |
+| OSI 开源 | ❌ | ❌ |
+
+项目引用示例：
+```
+This project uses DOCLFE v1.0.
+Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCLFE-zh.txt
+```
 
 ---
 

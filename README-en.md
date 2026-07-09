@@ -134,12 +134,35 @@ Additional files (optional, as needed):
 
 | File | Description |
 |------|-------------|
-| [DOCL-latest-en.txt](DOCL-latest-en.txt) | English latest (no version, tracks latest terms) |
-| [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | 中文版最新（无版本号，引用最新条款） |
-| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | English v1.0 (markdown) |
-| [DOCL-v1.0-en.txt](DOCL-v1.0-en.txt) | English v1.0 (plain text) |
-| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | Chinese v1.0 (markdown) |
-| [DOCL-v1.0-zh.txt](DOCL-v1.0-zh.txt) | Chinese v1.0 (plain text) |
+| [DOCL-v1.0-en.md](DOCL-v1.0-en.md) | DOCL v1.0 Standard (with commercial terms) |
+| [DOCL-v1.0-zh.md](DOCL-v1.0-zh.md) | DOCL v1.0 标准版（含商业授权） |
+| [DOCLFE-en.md](DOCLFE-en.md) | **DOCLFE v1.0 Free Edition (no commercial terms, not OSI-approved)** |
+| [DOCLFE-zh.md](DOCLFE-zh.md) | **DOCLFE v1.0 免费版（无商业条款，非 OSI 开源）** |
+| [DOCL-latest-en.txt](DOCL-latest-en.txt) | DOCL latest plain text |
+| [DOCL-latest-zh.txt](DOCL-latest-zh.txt) | DOCL 最新版纯文本 |
+
+---
+
+## DOCLFE — Free Edition
+
+DOCLFE is a free variant of DOCL, with commercial authorization and pricing governance terms removed. Suitable for projects that do not wish to involve commercial licensing.
+
+**Differences from DOCL v1.0 Standard:**
+
+| | DOCL v1.0 | DOCLFE |
+|---|---|---|
+| Commercial license | ✅ $100k/month | ❌ Free |
+| Mandatory source disclosure | ✅ Stricter than GPLv3 | ✅ Same |
+| CLA + backport | ✅ | ✅ |
+| Anti-competitive fork | ✅ | ✅ |
+| Patent retaliation | ✅ | ✅ |
+| OSI-approved | ❌ | ❌ |
+
+Project reference example:
+```
+This project uses DOCLFE v1.0.
+Full license text: https://github.com/dslsdzc/DOCL/blob/main/DOCLFE-en.txt
+```
 
 ---
 
