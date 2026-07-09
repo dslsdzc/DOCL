@@ -142,9 +142,9 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 6.1 Only Contributors (i.e., CLA Signatories) are entitled to submit Contributions to the Software.
 
-6.2 Under the CLA, copyright (including intellectual property rights) in Contributions vests in the Licensor or its designated project entity.
+6.2 Upon execution of the CLA, the Contributor grants to the Licensor a perpetual, irrevocable, worldwide, royalty-free license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute all past and future Contributions submitted by such Contributor. The specific scope of rights granted shall be as set forth in the CLA.
 
-6.3 The Licensor retains the right to backport code from any fork, derivative work, or third-party version.
+6.3 The Licensor retains the right to backport code from any fork, derivative work, or third-party version. "Backport" means the Licensor's right to merge publicly available code from forks or derivative works based on the Software into the Software or its official versions, without requiring separate permission from or payment to the original author of such code. Backporting does not alter the original license status of the code; however, once backported, such code becomes subject to this License.
 
 6.4 Content submitted by non-Contributors may be rejected by the Licensor.
 
