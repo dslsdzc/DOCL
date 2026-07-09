@@ -16,7 +16,10 @@ This License applies to the software accompanying it (hereinafter referred to as
 
 1.1 "Software" or "Licensed Work" means the original work published by the Licensor under this License, together with all modified versions thereof.
 
-1.2 "Modification" means any addition to, deletion from, or change to the source code of the Software, including but not limited to code changes, feature additions or removals, and bug fixes.
+1.2 "Modification" means any of the following:
+    (a) Any addition to, deletion from, or change to the source code of the Software, including but not limited to code changes, feature additions or removals, and bug fixes;
+    (b) Any technical means that materially alters the functionality, behavior, or output of the Software without directly modifying its source code, including but not limited to runtime injection, process hijacking, LD_PRELOAD, eBPF programs, kernel modules, plugin or extension systems, sidecar proxies, network interception, or dynamic linking hijacking;
+    (c) Embedding or integrating the Software into another software system where the Software's functionality constitutes a core value component of such system.
 
 1.3 "Derivative Work" means any work that is based on, derived from, adapted from, or refactored from the Software, in whole or in part.
 
