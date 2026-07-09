@@ -256,8 +256,18 @@ This License acknowledges that the health of an open source community depends on
 
 12.5 Any ambiguity in the terms of this License shall be interpreted in accordance with its purposes and general principles of law, and not necessarily in favor of the Licensor or any party.
 
----
+12.6 **License Compatibility**: Different parts of the Software may be governed by different licenses. However, the same code shall not be simultaneously subject to this License and any other license.
 
-*DOCL v1.0 — Dsls Open Core License*
+12.7 **Evidentiary Effect**: Oral agreements or email communications relating to this License shall be valid if their content can be evidenced.
+
+12.8 **No Waiver**: The Licensor's failure or delay in enforcing any violation of this License shall not constitute a waiver of any term, nor shall it preclude the Licensor from subsequently enforcing such violation or any other breach.
+
+12.9 **Assignment**: Rights and obligations under this License may be transferred together with all or substantially all of Your assets, but may not be transferred separately. The transferee shall be bound by all terms and conditions of this License.
+
+12.10 **Export Control**: The Software may be subject to applicable export control laws (including but not limited to those of the People's Republic of China and the United States). You may not use, distribute, or transfer the Software in violation of such laws.
+
+12.11 **No Inducement of Infringement**: You shall not knowingly induce or assist others in infringing the intellectual property rights of the Software or its Contributors. Violation of this provision shall result in automatic termination of this License.
+
+12.12 **Notice**: Any notice under this License shall be deemed effectively served if given in writing and capable of being evidenced (including but not limited by email, registered mail, courier, GitHub Issue, or Pull Request).
 *This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.*
 *Copyright © Dsls Team*

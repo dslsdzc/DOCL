@@ -203,21 +203,23 @@ This License acknowledges that the health of an open source community depends on
     (c) Upon such upgrade, all derived repositories based on that project (including but not limited to GitHub forks, repositories created after git clone, mirrors, imports, and their nested derivatives) **must follow** the upgrade, and shall be governed by the current version in the upstream repository. Derived repository creators may not select or fix an older version; failure to follow shall render the repository a Competitive Fork.
     (d) Version updates are not retroactive — copies already distributed prior to the upgrade shall continue to be governed by the prior version. However, after the upgrade, your continued use of the Software (including but not limited to running, modifying, and distributing) shall be governed by the new version. The prior version shall no longer be available for new licenses.
 
-    Updates are categorized as follows:
-    (a) **Non-Material Updates** — clarifications, loophole fixes, explanatory supplements to existing terms, and restrictions on abusive uses that could not reasonably have been foreseen at the time of the Software's release. Non-material updates take effect **seven (7) days** after publication by the Licensor through official channels (including but not limited to the project repository Release page or official announcements). Conduct engaged in prior to the effective date shall not be deemed a violation of the updated terms.
-    (b) **Material Updates** — new substantive obligations not previously existing under this License, or material expansions of existing restrictions. Material updates take effect **sixty (60) days** after publication, allowing you time to review and decide.
-
-    The Licensor shall indicate the category of each update at the time of publication. Any dispute regarding the categorization of an update shall be finally determined by a court of competent jurisdiction.
-
-    If you reference a specific version number (e.g., v1.0), that version governs and subsequent updates shall not apply.
-
 10.4 If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 10.5 Any ambiguity in the terms of this License shall be interpreted in accordance with its purposes and general principles of law, and not necessarily in favor of the Licensor or any party.
 
----
+10.6 **License Compatibility**: Different parts of the Software may be governed by different licenses. However, the same code shall not be simultaneously subject to this License and any other license.
 
-*DOCLFE v1.0 — Dsls Open Core License Free Edition*
+10.7 **Evidentiary Effect**: Oral agreements or email communications relating to this License shall be valid if their content can be evidenced.
+
+10.8 **No Waiver**: The Licensor's failure or delay in enforcing any violation of this License shall not constitute a waiver of any term, nor shall it preclude the Licensor from subsequently enforcing such violation or any other breach.
+
+10.9 **Assignment**: Rights and obligations under this License may be transferred together with all or substantially all of Your assets, but may not be transferred separately. The transferee shall be bound by all terms and conditions of this License.
+
+10.10 **Export Control**: The Software may be subject to applicable export control laws (including but not limited to those of the People's Republic of China and the United States). You may not use, distribute, or transfer the Software in violation of such laws.
+
+10.11 **No Inducement of Infringement**: You shall not knowingly induce or assist others in infringing the intellectual property rights of the Software or its Contributors. Violation of this provision shall result in automatic termination of this License.
+
+10.12 **Notice**: Any notice under this License shall be deemed effectively served if given in writing and capable of being evidenced (including but not limited by email, registered mail, courier, GitHub Issue, or Pull Request).
 *This is a source-available license. It is not an OSI-approved open source license.*
 *This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.*
 *Copyright © Dsls Team*
