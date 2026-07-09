@@ -242,7 +242,7 @@ This License acknowledges that the health of an open source community depends on
 
 12.2 This License shall be governed by the laws of the People's Republic of China. Any disputes arising under this License shall first be resolved through good-faith negotiation. If negotiation fails, either the Licensor or you may elect to resolve the dispute by either of the following means:
     (a) Submission to the competent People's Court at the Licensor's domicile; or
-    (b) Submission to the Singapore International Arbitration Centre (SIAC) or the Hong Kong International Arbitration Centre (HKIAC) for arbitration in accordance with its then-current arbitration rules. The place of arbitration shall be Singapore or Hong Kong (as selected by the party initiating arbitration), and the language of arbitration shall be English.
+    (b) Submission to the Singapore International Arbitration Centre (SIAC), the Hong Kong International Arbitration Centre (HKIAC), the American Arbitration Association (AAA), or the International Chamber of Commerce (ICC, Paris) for arbitration in accordance with its then-current arbitration rules. The place of arbitration shall be selected by the party initiating arbitration, and the language of arbitration shall be English.
 
 12.3 The Licensor reserves the right to revise the version of this License. Upon release of a revised version, you may choose to continue under the original version or adopt the new version.
 
