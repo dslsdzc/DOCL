@@ -226,6 +226,8 @@ This License acknowledges that the health of an open source community depends on
 10.14 Entire Agreement: This License (including its Additional Terms under Article 8 and any Commercial Exemption Agreement) constitutes the entire and exclusive agreement between you and the Licensor with respect to the Software, superseding all prior oral, written, or electronic communications and arrangements.
 
 10.15 Rights Cumulative: The rights granted under this License are cumulative and do not limit any rights you may otherwise have under applicable law.
+
+10.16 Jurisdictional Adaptation: If any provision of this License is held to be invalid or unenforceable in a given jurisdiction, such provision shall, in that jurisdiction, be automatically limited to the minimum extent necessary to render it valid and enforceable. If such limitation is not possible, the provision shall be severed in that jurisdiction only, without affecting the validity or enforceability of the remaining provisions. This paragraph shall not affect the validity and enforceability of such provision in any other jurisdiction.
 This is a source-available license. It is not an OSI-approved open source license.
 This license text is licensed under CC-BY-4.0. You may freely copy and distribute it with attribution.
 Copyright © Dsls Team
