@@ -29,7 +29,7 @@ This License applies to the software accompanying it (hereinafter referred to as
     Corresponding Source does not include System Libraries, general-purpose tools, or generally available free programs used unmodified in performing those activities.
 
 1.6 **"Commercial Use"** means any activity that directly or indirectly generates economic benefit from the Software. The following activities shall not be considered Commercial Use:
-    (a) Activities generating total monthly revenue (meaning all revenue from any product that uses the Software, including revenue from other products that use such product) less than 50% of the Set Price;
+    (a) Activities generating total monthly revenue (meaning all revenue from any product or service that uses the Software) less than 50% of the Set Price;
     (b) Personal learning, academic research, or non-commercial open source projects.
 
 1.7 **"Set Price"** means the commercial license price specified in this License, as set forth in Article 5, Section 5.1.
@@ -173,6 +173,8 @@ Upon request by the Licensor, you shall provide access URLs to the Corresponding
 7.1 All rights granted under this License to a Competitive Fork (as defined in Article 1.11) shall terminate automatically.
 
 7.2 Continued use, modification, or distribution after such termination shall constitute infringement, and the Licensor reserves all rights to pursue legal action and claim damages.
+
+7.2a **Objection Procedure**: Before determining that a fork constitutes a Competitive Fork, the Licensor shall provide written notice to the maintainer(s) of such fork, specifying the basis for such determination. The fork maintainer(s) may submit a written objection and supporting evidence to the Licensor within **thirty (30) days** of receiving such notice. The Licensor shall make a final determination and respond in writing within **thirty (30) days** of receiving the objection. During the objection period, termination shall be stayed. If the Licensor finally determines that the fork is a Competitive Fork, such determination may be subject to review through the dispute resolution mechanism set forth in Article 12.
 
 7.3 The project name, trademark, and logo of the Software may not be used without the prior written authorization of the Licensor.
 
