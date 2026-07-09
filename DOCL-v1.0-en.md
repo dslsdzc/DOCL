@@ -36,9 +36,11 @@ This License applies to the software accompanying it (hereinafter referred to as
 
 1.8 **"CLA"** (Contributor License Agreement) means the contributor license agreement executed between a Contributor and the Licensor.
 
-1.9 **"CLA Signatory"** means an individual or entity that has executed a currently valid CLA.
+1.9 **"CLA Signatory"** means a natural person who has executed a currently valid CLA. Legal entities (including corporations, teams, organizations, etc.) may not become CLA Signatories.
 
-1.10 **"Contributor"** means an individual or entity that submits code, documentation, or other contributions to the Software.
+1.10 **"Contributor"** means a natural person who is a CLA Signatory. Only Contributors are entitled to submit contributions to the Software.
+
+1.10a **"Contribution"** means code, documentation, configuration, or other modifications to the Licensed Work submitted by a Contributor to the Software through a source code control system (such as Git) in the form of Pull Requests, patches, or other means.
 
 1.11 **"Competitive Fork"** means any of the following:
     (a) A fork directly based on the source code of the Licensed Work that offers a product to third parties on a paid basis (including through paid support arrangements), where the functionality of such offering significantly overlaps with the capabilities of the Licensed Work or the Licensor's commercial offering(s) based on the Licensed Work. A product that is not competitive when first made generally available shall not become competitive solely due to the Licensor subsequently releasing a new version of the Licensed Work with additional capabilities;
@@ -138,13 +140,13 @@ Upon request by the Licensor, you must provide access URLs to the Corresponding 
 
 ## Article 6: Contributions and CLA (Non-Overrideable)
 
-6.1 All contributions submitted to the Software require a signed CLA as a precondition.
+6.1 Only Contributors (i.e., CLA Signatories) are entitled to submit Contributions to the Software.
 
-6.2 Under the CLA, copyright (including intellectual property rights) in contributions vests in the Licensor or its designated project entity.
+6.2 Under the CLA, copyright (including intellectual property rights) in Contributions vests in the Licensor or its designated project entity.
 
 6.3 The Licensor retains the right to backport code from any fork, derivative work, or third-party version.
 
-6.4 Contributions submitted without a signed CLA may be rejected by the Licensor.
+6.4 Content submitted by non-Contributors may be rejected by the Licensor.
 
 6.5 CLA Signatories must be natural persons only. The following entities shall not become CLA Signatories:
     (a) Commercial entities, corporations, teams, organizations, or other non-human legal persons;
