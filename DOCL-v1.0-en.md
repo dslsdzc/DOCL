@@ -45,7 +45,7 @@ This License applies to the software accompanying it (hereinafter referred to as
 1.11 **"Competitive Fork"** means any of the following:
     (a) A fork directly based on the source code of the Licensed Work that offers a product to third parties on a paid basis (including through paid support arrangements),
         where the functionality of such offering significantly overlaps with the capabilities of the Licensed Work or the Licensor's commercial offering(s) based on the Licensed Work.
-        Significant overlap shall be reasonably determined by the Licensor based on the functional scope, target users, and market positioning of the product in question.
+        A determination of significant overlap shall be based on an objective assessment of factors including the functional scope, target users, and market positioning of the product in question.
         A product that is not competitive when first made generally available shall not become competitive solely due to the Licensor subsequently releasing a new version of the Licensed Work with additional capabilities;
     (b) An Interface-Conforming Implementation (as defined in Article 1.12) that exhibits any of the following characteristics —
         (i) It is offered to third parties on a paid basis;
