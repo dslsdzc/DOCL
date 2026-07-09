@@ -128,7 +128,12 @@ Upon request by the Licensor, you shall provide access URLs to the Corresponding
 
 4.3 The Licensor retains the right to grant specific exemptions under Article 8 (Additional Terms).
 
-4.4 **Compliance Certification and Audit**: Any user claiming that their use does not constitute Commercial Use by virtue of the exemption in Article 1.6(a) shall, within thirty (30) days of a written request from the Licensor, provide revenue data sufficient to demonstrate compliance with the exemption conditions. The Licensor shall keep such data confidential and may use it solely for the purpose of verifying compliance with the exemption conditions. A user's refusal to provide such data, or provision of false data, shall result in the loss of eligibility for the exemption under Article 1.6(a). The Licensor is entitled to conduct a compliance audit of the user no more than once in any twelve (12)-month period. The cost of such audit shall be borne by the Licensor; provided that if a material non-compliance is discovered, the audit costs shall be borne by the user.
+4.4 **Compliance Certification and Audit**:
+    (a) Any user claiming that their use does not constitute Commercial Use by virtue of the exemption in Article 1.6(a) shall, within thirty (30) days of a written request from the Licensor, provide revenue data sufficient to demonstrate compliance with the exemption conditions. Such data shall be provided through confidential means; the user may require the parties to first enter into a mutual non-disclosure agreement (NDA).
+    (b) The Licensor shall keep such data confidential and may use it solely for the purpose of verifying compliance with the exemption conditions, and shall destroy or return such data within thirty (30) days after completion of verification.
+    (c) The Licensor's and its affiliates' aggregate liability for any disclosure of such data shall be limited to **USD 50,000** or the total commercial license fees paid by the user (whichever is greater), except in cases of intentional misconduct or gross negligence by the Licensor.
+    (d) A user's refusal to provide such data, or provision of false data, shall result in the loss of eligibility for the exemption under Article 1.6(a).
+    (e) The Licensor is entitled to conduct a compliance audit of the user no more than once in any twelve (12)-month period. The cost of such audit shall be borne by the Licensor; provided that if a material non-compliance is discovered, the audit costs shall be borne by the user. The user may elect to have the audit conducted by a mutually agreed independent third-party auditor, in which case the audit report shall disclose only whether the user is in compliance.
 
 ## Article 5: Pricing and Community Governance (Non-Overrideable)
 
