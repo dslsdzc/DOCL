@@ -200,7 +200,7 @@ This License acknowledges that the health of an open source community depends on
 10.3a Fixed Text and Upstream Upgrade:
     (a) This License is governed solely by the fixed text accompanying the Software in the project repository. Referencing this License via external URL links is not permitted.
     (b) The Licensor of the original project may actively upgrade the license version applied to their project, without requiring community approval. Such upgrade is effected by replacing the license file in the repository and marking the new version number.
-    (c) Upon such upgrade, all forks based on that project must follow the upgrade, and shall be governed by the current version in the upstream repository. Fork maintainers may not select or fix an older version; failure to follow shall render the fork a Competitive Fork.
+    (c) Upon such upgrade, all derived repositories based on that project (including but not limited to GitHub forks, repositories created after git clone, mirrors, imports, and their nested derivatives) must follow the upgrade, and shall be governed by the current version in the upstream repository. Derived repository creators may not select or fix an older version; failure to follow shall render the repository a Competitive Fork.
     (d) Version updates are not retroactive — copies already distributed prior to the upgrade shall continue to be governed by the prior version. However, after the upgrade, your continued use of the Software (including but not limited to running, modifying, and distributing) shall be governed by the new version. The prior version shall no longer be available for new licenses.
 
     Updates are categorized as follows:
